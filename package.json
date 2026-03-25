@@ -1,6 +1,6 @@
 {
 	"name": "country-state-city",
-	"version": "3.2.1",
+	"version": "3.2.2",
 	"description": "Library for fetching Country, its States and Cities",
 	"main": "./lib/cjs/index.js",
 	"module": "./lib/index.js",
@@ -10,6 +10,7 @@
 		"test": "jest",
 		"build": "tsc -p tsconfig.json && tsc -p tsconfig-cjs.json && npm run minify",
 		"prepublish": "npm run build",
+		"prepare": "npm run build",
 		"lint": "eslint index.ts __test__ --fix",
 		"minify": "ts-node src/scripts/minify.ts",
 		"split-data":"ts-node src/scripts/splitLargeDatasetFiles-CSC.ts",
