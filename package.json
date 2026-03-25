@@ -10,7 +10,7 @@
 		"test": "jest",
 		"build": "tsc -p tsconfig.json && tsc -p tsconfig-cjs.json && npm run minify",
 		"prepublish": "npm run build",
-		"prepare": "npm run build",
+		"prepare": "tsc -p tsconfig.json && tsc -p tsconfig-cjs.json",
 		"lint": "eslint index.ts __test__ --fix",
 		"minify": "ts-node src/scripts/minify.ts",
 		"split-data":"ts-node src/scripts/splitLargeDatasetFiles-CSC.ts",
