@@ -14,6 +14,8 @@ const minifyFile = async (parentDir:string, file: string) => {
 };
 
 const minify = () => {
+	console.log("path :: ", process.cwd());
+
 	const paths = [
 		path.resolve(process.cwd(), 'lib/assets'),
 		path.resolve(process.cwd(), 'lib/cjs/assets')
