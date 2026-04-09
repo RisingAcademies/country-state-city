@@ -1,21 +1,21 @@
 {
-	"name": "country-state-city",
-	"version": "3.2.4",
+	"name": "@rising-academies/country-state-city",
+	"version": "3.2.6",
 	"description": "Library for fetching Country, its States and Cities",
 	"main": "./lib/cjs/index.js",
 	"module": "./lib/index.js",
 	"types": "./lib/index.d.ts",
 	"sideEffects": false,
 	"scripts": {
+		"aws:repo": "aws codeartifact login --tool npm --repository forks --domain rising-academies --namespace @rising-academies",
 		"test": "jest",
 		"build": "tsc -p ./tsconfig.json && tsc -p ./tsconfig-cjs.json && npm run minify",
 		"prepublish": "npm run build",
-		"prepare": "npm run build",
 		"lint": "eslint index.ts __test__ --fix",
 		"minify": "ts-node src/scripts/minify.ts",
-		"split-data":"ts-node src/scripts/splitLargeDatasetFiles-CSC.ts",
-		"update-data":"ts-node src/scripts/combineSplitFilesToMakeALargeDatasetFiles-CSC.ts",
-		"update-data-with-gz":"gz=true ts-node src/scripts/combineSplitFilesToMakeALargeDatasetFiles-CSC.ts"
+		"split-data": "ts-node src/scripts/splitLargeDatasetFiles-CSC.ts",
+		"update-data": "ts-node src/scripts/combineSplitFilesToMakeALargeDatasetFiles-CSC.ts",
+		"update-data-with-gz": "gz=true ts-node src/scripts/combineSplitFilesToMakeALargeDatasetFiles-CSC.ts"
 	},
 	"author": "harpreetkhalsagtbit@gmail.com",
 	"license": "GPL-3.0",
