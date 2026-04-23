@@ -26775,6 +26775,286 @@
       "longitude": null
    },
    {
+      "name": "Cyangugu",
+      "isoCode": "06",
+      "countryCode": "RW",
+      "latitude": "-2.48460000",
+      "longitude": "28.90750000"
+   },
+   {
+      "name": "Gisenyi",
+      "isoCode": "07",
+      "countryCode": "RW",
+      "latitude": "-1.70278000",
+      "longitude": "29.25639000"
+   },
+   {
+      "name": "Karongi",
+      "isoCode": "08",
+      "countryCode": "RW",
+      "latitude": "-2.151",
+      "longitude": "29.395"
+   },
+   {
+      "name": "Kibuye",
+      "isoCode": "09",
+      "countryCode": "RW",
+      "latitude": "-2.06028000",
+      "longitude": "29.34778000"
+   },
+   {
+      "name": "Ngororero",
+      "isoCode": "10",
+      "countryCode": "RW",
+      "latitude": "-1.865",
+      "longitude": "29.625"
+   },
+   {
+      "name": "Nyabihu",
+      "isoCode": "11",
+      "countryCode": "RW",
+      "latitude": "-1.65",
+      "longitude": "29.5"
+   },
+   {
+      "name": "Nyamasheke",
+      "isoCode": "12",
+      "countryCode": "RW",
+      "latitude": "-2.366667",
+      "longitude": "29.15"
+   },
+   {
+      "name": "Rubavu",
+      "isoCode": "13",
+      "countryCode": "RW",
+      "latitude": "-1.66007",
+      "longitude": "28.896667"
+   },
+   {
+      "name": "Rusizi",
+      "isoCode": "14",
+      "countryCode": "RW",
+      "latitude": "-2.483333",
+      "longitude": "29.34778000"
+   },
+   {
+      "name": "Rutsiro",
+      "isoCode": "15",
+      "countryCode": "RW",
+      "latitude": "-1.916667",
+      "longitude": "29.316667"
+   },
+   {
+      "name": "Bugesera",
+      "isoCode": "16",
+      "countryCode": "RW",
+      "latitude": "-2.205",
+      "longitude": "30.145"
+   },
+   {
+      "name": "Gatsibo",
+      "isoCode": "17",
+      "countryCode": "RW",
+      "latitude": "-1.6",
+      "longitude": "30.45"
+   },
+   {
+      "name": "Kayonza",
+      "isoCode": "18",
+      "countryCode": "RW",
+      "latitude": "-1.85",
+      "longitude": "30.65"
+   },
+   {
+      "name": "Kibungo",
+      "isoCode": "19",
+      "countryCode": "RW",
+      "latitude": "-2.15970000",
+      "longitude": "30.54270000"
+   },
+   {
+      "name": "Kirehe",
+      "isoCode": "20",
+      "countryCode": "RW",
+      "latitude": "-2.25",
+      "longitude": "30.733333"
+   },
+   {
+      "name": "Ngoma",
+      "isoCode": "21",
+      "countryCode": "RW",
+      "latitude": "-2.183333",
+      "longitude": "30.466667"
+   },
+   {
+      "name": "Nyagatare",
+      "isoCode": "22",
+      "countryCode": "RW",
+      "latitude": "-1.3",
+      "longitude": "30.333333"
+   },
+   {
+      "name": "Rwamagana",
+      "isoCode": "23",
+      "countryCode": "RW",
+      "latitude": "-1.94870000",
+      "longitude": "30.43470000"
+   },
+   {
+      "name": "Burera",
+      "isoCode": "24",
+      "countryCode": "RW",
+      "latitude": "-1.4905",
+      "longitude": "29.8104"
+   },
+   {
+      "name": "Byumba",
+      "isoCode": "25",
+      "countryCode": "RW",
+      "latitude": "-1.57630000",
+      "longitude": "30.06750000"
+   },
+   {
+      "name": "Gakenke",
+      "isoCode": "26",
+      "countryCode": "RW",
+      "latitude": "-1.7",
+      "longitude": "29.783333"
+   },
+   {
+      "name": "Gicumbi",
+      "isoCode": "27",
+      "countryCode": "RW",
+      "latitude": "-1.616667",
+      "longitude": "30.116667"
+   },
+   {
+      "name": "Musanze",
+      "isoCode": "28",
+      "countryCode": "RW",
+      "latitude": "-1.49984000",
+      "longitude": "29.63497000"
+   },
+   {
+      "name": "Rulindo",
+      "isoCode": "29",
+      "countryCode": "RW",
+      "latitude": "-1.733333",
+      "longitude": "30"
+   },
+   {
+      "name": "Butare",
+      "isoCode": "30",
+      "countryCode": "RW",
+      "latitude": "-2.59667000",
+      "longitude": "29.73944000"
+   },
+   {
+      "name": "Eglise Catholique, Centrale GIKO",
+      "isoCode": "31",
+      "countryCode": "RW",
+      "latitude": "-1.93653000",
+      "longitude": "29.80610000"
+   },
+   {
+      "name": "Gisagara",
+      "isoCode": "32",
+      "countryCode": "RW",
+      "latitude": "-2.616667",
+      "longitude": "29.85"
+   },
+   {
+      "name": "Gitarama",
+      "isoCode": "33",
+      "countryCode": "RW",
+      "latitude": "-2.07444000",
+      "longitude": "29.75667000"
+   },
+   {
+      "name": "Huye",
+      "isoCode": "34",
+      "countryCode": "RW",
+      "latitude": "-2.58206",
+      "longitude": "29.69726"
+   },
+   {
+      "name": "Kamonyi",
+      "isoCode": "35",
+      "countryCode": "RW",
+      "latitude": "-2",
+      "longitude": "29.9"
+   },
+   {
+      "name": "Muhanga",
+      "isoCode": "36",
+      "countryCode": "RW",
+      "latitude": "-3.02822",
+      "longitude": "29.83272"
+   },
+   {
+      "name": "Nyamagabe",
+      "isoCode": "37",
+      "countryCode": "RW",
+      "latitude": "-2.4",
+      "longitude": "29.466667"
+   },
+   {
+      "name": "Nyanza",
+      "isoCode": "38",
+      "countryCode": "RW",
+      "latitude": "-2.33692",
+      "longitude": "29.79451"
+   },
+   {
+      "name": "Nyaruguru",
+      "isoCode": "39",
+      "countryCode": "RW",
+      "latitude": "-2.7",
+      "longitude": "29.516667"
+   },
+   {
+      "name": "Nzega",
+      "isoCode": "40",
+      "countryCode": "RW",
+      "latitude": "-2.47900000",
+      "longitude": "29.55640000"
+   },
+   {
+      "name": "Ruhango",
+      "isoCode": "41",
+      "countryCode": "RW",
+      "latitude": "-2.2",
+      "longitude": "29.7667"
+   },
+   {
+      "name": "Gasabo",
+      "isoCode": "42",
+      "countryCode": "RW",
+      "latitude": "-1.883333",
+      "longitude": "30.133333"
+   },
+   {
+      "name": "Kicukiro",
+      "isoCode": "43",
+      "countryCode": "RW",
+      "latitude": "-2.011389",
+      "longitude": "30.142222"
+   },
+   {
+      "name": "Kigali",
+      "isoCode": "44",
+      "countryCode": "RW",
+      "latitude": "-1.94995000",
+      "longitude": "30.05885000"
+   },
+   {
+      "name": "Nyarugenge",
+      "isoCode": "45",
+      "countryCode": "RW",
+      "latitude": "-1.983333",
+      "longitude": "30.016667"
+   },
+   {
       "name": "Riyadh",
       "isoCode": "01",
       "countryCode": "SA",
