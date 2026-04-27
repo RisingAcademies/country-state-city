@@ -23,5 +23,205 @@
       "name": "Southern Province",
       "isoCode": "05",
       "countryCode": "RW"
+   },
+   {
+      "name": "Cyangugu",
+      "isoCode": "06",
+      "countryCode": "RW"
+   },
+   {
+      "name": "Gisenyi",
+      "isoCode": "07",
+      "countryCode": "RW"
+   },
+   {
+      "name": "Karongi",
+      "isoCode": "08",
+      "countryCode": "RW"
+   },
+   {
+      "name": "Kibuye",
+      "isoCode": "09",
+      "countryCode": "RW"
+   },
+   {
+      "name": "Ngororero",
+      "isoCode": "10",
+      "countryCode": "RW"
+   },
+   {
+      "name": "Nyabihu",
+      "isoCode": "11",
+      "countryCode": "RW"
+   },
+   {
+      "name": "Nyamasheke",
+      "isoCode": "12",
+      "countryCode": "RW"
+   },
+   {
+      "name": "Rubavu",
+      "isoCode": "13",
+      "countryCode": "RW"
+   },
+   {
+      "name": "Rusizi",
+      "isoCode": "14",
+      "countryCode": "RW"
+   },
+   {
+      "name": "Rutsiro",
+      "isoCode": "15",
+      "countryCode": "RW"
+   },
+   {
+      "name": "Bugesera",
+      "isoCode": "16",
+      "countryCode": "RW"
+   },
+   {
+      "name": "Gatsibo",
+      "isoCode": "17",
+      "countryCode": "RW"
+   },
+   {
+      "name": "Kayonza",
+      "isoCode": "18",
+      "countryCode": "RW"
+   },
+   {
+      "name": "Kibungo",
+      "isoCode": "19",
+      "countryCode": "RW"
+   },
+   {
+      "name": "Kirehe",
+      "isoCode": "20",
+      "countryCode": "RW"
+   },
+   {
+      "name": "Ngoma",
+      "isoCode": "21",
+      "countryCode": "RW"
+   },
+   {
+      "name": "Nyagatare",
+      "isoCode": "22",
+      "countryCode": "RW"
+   },
+   {
+      "name": "Rwamagana",
+      "isoCode": "23",
+      "countryCode": "RW"
+   },
+   {
+      "name": "Burera",
+      "isoCode": "24",
+      "countryCode": "RW"
+   },
+   {
+      "name": "Byumba",
+      "isoCode": "25",
+      "countryCode": "RW"
+   },
+   {
+      "name": "Gakenke",
+      "isoCode": "26",
+      "countryCode": "RW"
+   },
+   {
+      "name": "Gicumbi",
+      "isoCode": "27",
+      "countryCode": "RW"
+   },
+   {
+      "name": "Musanze",
+      "isoCode": "28",
+      "countryCode": "RW"
+   },
+   {
+      "name": "Rulindo",
+      "isoCode": "29",
+      "countryCode": "RW"
+   },
+   {
+      "name": "Butare",
+      "isoCode": "30",
+      "countryCode": "RW"
+   },
+   {
+      "name": "Eglise Catholique, Centrale GIKO",
+      "isoCode": "31",
+      "countryCode": "RW"
+   },
+   {
+      "name": "Gisagara",
+      "isoCode": "32",
+      "countryCode": "RW"
+   },
+   {
+      "name": "Gitarama",
+      "isoCode": "33",
+      "countryCode": "RW"
+   },
+   {
+      "name": "Huye",
+      "isoCode": "34",
+      "countryCode": "RW"
+   },
+   {
+      "name": "Kamonyi",
+      "isoCode": "35",
+      "countryCode": "RW"
+   },
+   {
+      "name": "Muhanga",
+      "isoCode": "36",
+      "countryCode": "RW"
+   },
+   {
+      "name": "Nyamagabe",
+      "isoCode": "37",
+      "countryCode": "RW"
+   },
+   {
+      "name": "Nyanza",
+      "isoCode": "38",
+      "countryCode": "RW"
+   },
+   {
+      "name": "Nyaruguru",
+      "isoCode": "39",
+      "countryCode": "RW"
+   },
+   {
+      "name": "Nzega",
+      "isoCode": "40",
+      "countryCode": "RW"
+   },
+   {
+      "name": "Ruhango",
+      "isoCode": "41",
+      "countryCode": "RW"
+   },
+   {
+      "name": "Gasabo",
+      "isoCode": "42",
+      "countryCode": "RW"
+   },
+   {
+      "name": "Kicukiro",
+      "isoCode": "43",
+      "countryCode": "RW"
+   },
+   {
+      "name": "Kigali",
+      "isoCode": "44",
+      "countryCode": "RW"
+   },
+   {
+      "name": "Nyarugenge",
+      "isoCode": "45",
+      "countryCode": "RW"
    }
 ]
