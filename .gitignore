@@ -1,6 +1,7 @@
 node_modules
 lib
 coverage
+.DS_Store
 # Ignore all the files inside the node_modules folder
 data/**/*.*
 

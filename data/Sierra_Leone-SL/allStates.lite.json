@@ -18,5 +18,20 @@
       "name": "Western Area",
       "isoCode": "W",
       "countryCode": "SL"
+   },
+   {
+      "name": "Kono District",
+      "isoCode": "KO",
+      "countryCode": "SL"
+   },
+   {
+      "name": "Tonkolili District",
+      "isoCode": "TO",
+      "countryCode": "SL"
+   },
+   {
+      "name": "Western Rural Area District",
+      "isoCode": "WR",
+      "countryCode": "SL"
    }
 ]
