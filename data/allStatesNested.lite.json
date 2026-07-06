@@ -21,7 +21,7 @@
          "countryCode": "AD"
       },
       {
-         "name": "Sant Juli\u00e0 de L\u00f2ria",
+         "name": "Sant Julià de Lòria",
          "isoCode": "06",
          "countryCode": "AD"
       },
@@ -120,7 +120,7 @@
          "countryCode": "AF"
       },
       {
-         "name": "Gh\u014dr",
+         "name": "Ghōr",
          "isoCode": "GHO",
          "countryCode": "AF"
       },
@@ -289,7 +289,7 @@
          "countryCode": "AL"
       },
       {
-         "name": "Durr\u00ebs County",
+         "name": "Durrës County",
          "isoCode": "02",
          "countryCode": "AL"
       },
@@ -304,32 +304,32 @@
          "countryCode": "AL"
       },
       {
-         "name": "Gjirokast\u00ebr County",
+         "name": "Gjirokastër County",
          "isoCode": "05",
          "countryCode": "AL"
       },
       {
-         "name": "Kor\u00e7\u00eb County",
+         "name": "Korçë County",
          "isoCode": "06",
          "countryCode": "AL"
       },
       {
-         "name": "Kuk\u00ebs County",
+         "name": "Kukës County",
          "isoCode": "07",
          "countryCode": "AL"
       },
       {
-         "name": "Lezh\u00eb County",
+         "name": "Lezhë County",
          "isoCode": "08",
          "countryCode": "AL"
       },
       {
-         "name": "Dib\u00ebr County",
+         "name": "Dibër County",
          "isoCode": "09",
          "countryCode": "AL"
       },
       {
-         "name": "Shkod\u00ebr County",
+         "name": "Shkodër County",
          "isoCode": "10",
          "countryCode": "AL"
       },
@@ -339,7 +339,7 @@
          "countryCode": "AL"
       },
       {
-         "name": "Vlor\u00eb County",
+         "name": "Vlorë County",
          "isoCode": "12",
          "countryCode": "AL"
       },
@@ -349,22 +349,22 @@
          "countryCode": "AL"
       },
       {
-         "name": "Bulqiz\u00eb District",
+         "name": "Bulqizë District",
          "isoCode": "BU",
          "countryCode": "AL"
       },
       {
-         "name": "Dib\u00ebr District",
+         "name": "Dibër District",
          "isoCode": "DI",
          "countryCode": "AL"
       },
       {
-         "name": "Delvin\u00eb District",
+         "name": "Delvinë District",
          "isoCode": "DL",
          "countryCode": "AL"
       },
       {
-         "name": "Durr\u00ebs District",
+         "name": "Durrës District",
          "isoCode": "DR",
          "countryCode": "AL"
       },
@@ -374,7 +374,7 @@
          "countryCode": "AL"
       },
       {
-         "name": "Kolonj\u00eb District",
+         "name": "Kolonjë District",
          "isoCode": "ER",
          "countryCode": "AL"
       },
@@ -384,7 +384,7 @@
          "countryCode": "AL"
       },
       {
-         "name": "Gjirokast\u00ebr District",
+         "name": "Gjirokastër District",
          "isoCode": "GJ",
          "countryCode": "AL"
       },
@@ -399,7 +399,7 @@
          "countryCode": "AL"
       },
       {
-         "name": "Kavaj\u00eb District",
+         "name": "Kavajë District",
          "isoCode": "KA",
          "countryCode": "AL"
       },
@@ -409,22 +409,22 @@
          "countryCode": "AL"
       },
       {
-         "name": "Ku\u00e7ov\u00eb District",
+         "name": "Kuçovë District",
          "isoCode": "KC",
          "countryCode": "AL"
       },
       {
-         "name": "Kor\u00e7\u00eb District",
+         "name": "Korçë District",
          "isoCode": "KO",
          "countryCode": "AL"
       },
       {
-         "name": "Kruj\u00eb District",
+         "name": "Krujë District",
          "isoCode": "KR",
          "countryCode": "AL"
       },
       {
-         "name": "Kuk\u00ebs District",
+         "name": "Kukës District",
          "isoCode": "KU",
          "countryCode": "AL"
       },
@@ -434,27 +434,27 @@
          "countryCode": "AL"
       },
       {
-         "name": "Lezh\u00eb District",
+         "name": "Lezhë District",
          "isoCode": "LE",
          "countryCode": "AL"
       },
       {
-         "name": "Lushnj\u00eb District",
+         "name": "Lushnjë District",
          "isoCode": "LU",
          "countryCode": "AL"
       },
       {
-         "name": "Mallakast\u00ebr District",
+         "name": "Mallakastër District",
          "isoCode": "MK",
          "countryCode": "AL"
       },
       {
-         "name": "Mal\u00ebsi e Madhe District",
+         "name": "Malësi e Madhe District",
          "isoCode": "MM",
          "countryCode": "AL"
       },
       {
-         "name": "Mirdit\u00eb District",
+         "name": "Mirditë District",
          "isoCode": "MR",
          "countryCode": "AL"
       },
@@ -474,17 +474,17 @@
          "countryCode": "AL"
       },
       {
-         "name": "P\u00ebrmet District",
+         "name": "Përmet District",
          "isoCode": "PR",
          "countryCode": "AL"
       },
       {
-         "name": "Puk\u00eb District",
+         "name": "Pukë District",
          "isoCode": "PU",
          "countryCode": "AL"
       },
       {
-         "name": "Shkod\u00ebr District",
+         "name": "Shkodër District",
          "isoCode": "SH",
          "countryCode": "AL"
       },
@@ -494,17 +494,17 @@
          "countryCode": "AL"
       },
       {
-         "name": "Sarand\u00eb District",
+         "name": "Sarandë District",
          "isoCode": "SR",
          "countryCode": "AL"
       },
       {
-         "name": "Tepelen\u00eb District",
+         "name": "Tepelenë District",
          "isoCode": "TE",
          "countryCode": "AL"
       },
       {
-         "name": "Tropoj\u00eb District",
+         "name": "Tropojë District",
          "isoCode": "TP",
          "countryCode": "AL"
       },
@@ -514,7 +514,7 @@
          "countryCode": "AL"
       },
       {
-         "name": "Vlor\u00eb District",
+         "name": "Vlorë District",
          "isoCode": "VL",
          "countryCode": "AL"
       }
@@ -588,7 +588,7 @@
          "countryCode": "AO"
       },
       {
-         "name": "Bi\u00e9 Province",
+         "name": "Bié Province",
          "isoCode": "BIE",
          "countryCode": "AO"
       },
@@ -623,7 +623,7 @@
          "countryCode": "AO"
       },
       {
-         "name": "Hu\u00edla Province",
+         "name": "Huíla Province",
          "isoCode": "HUI",
          "countryCode": "AO"
       },
@@ -653,7 +653,7 @@
          "countryCode": "AO"
       },
       {
-         "name": "U\u00edge Province",
+         "name": "Uíge Province",
          "isoCode": "UIG",
          "countryCode": "AO"
       },
@@ -675,7 +675,7 @@
          "countryCode": "AR"
       },
       {
-         "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+         "name": "Ciudad Autónoma de Buenos Aires",
          "isoCode": "C",
          "countryCode": "AR"
       },
@@ -685,7 +685,7 @@
          "countryCode": "AR"
       },
       {
-         "name": "Entre R\u00edos",
+         "name": "Entre Ríos",
          "isoCode": "E",
          "countryCode": "AR"
       },
@@ -735,12 +735,12 @@
          "countryCode": "AR"
       },
       {
-         "name": "Neuqu\u00e9n",
+         "name": "Neuquén",
          "isoCode": "Q",
          "countryCode": "AR"
       },
       {
-         "name": "R\u00edo Negro",
+         "name": "Río Negro",
          "isoCode": "R",
          "countryCode": "AR"
       },
@@ -750,7 +750,7 @@
          "countryCode": "AR"
       },
       {
-         "name": "Tucum\u00e1n",
+         "name": "Tucumán",
          "isoCode": "T",
          "countryCode": "AR"
       },
@@ -770,7 +770,7 @@
          "countryCode": "AR"
       },
       {
-         "name": "C\u00f3rdoba",
+         "name": "Córdoba",
          "isoCode": "X",
          "countryCode": "AR"
       },
@@ -971,7 +971,7 @@
          "countryCode": "AZ"
       },
       {
-         "name": "G\u0259d\u0259b\u0259y",
+         "name": "Gədəbəy",
          "isoCode": "GAD",
          "countryCode": "AZ"
       },
@@ -1308,7 +1308,7 @@
          "countryCode": "BA"
       },
       {
-         "name": "Br\u010dko District",
+         "name": "Brčko District",
          "isoCode": "BRC",
          "countryCode": "BA"
       },
@@ -1779,7 +1779,7 @@
          "countryCode": "BE"
       },
       {
-         "name": "Li\u00e8ge",
+         "name": "Liège",
          "isoCode": "WLG",
          "countryCode": "BE"
       },
@@ -1861,7 +1861,7 @@
          "countryCode": "BF"
       },
       {
-         "name": "Bal\u00e9 Province",
+         "name": "Balé Province",
          "isoCode": "BAL",
          "countryCode": "BF"
       },
@@ -1876,7 +1876,7 @@
          "countryCode": "BF"
       },
       {
-         "name": "Baz\u00e8ga Province",
+         "name": "Bazèga Province",
          "isoCode": "BAZ",
          "countryCode": "BF"
       },
@@ -1891,7 +1891,7 @@
          "countryCode": "BF"
       },
       {
-         "name": "Como\u00e9 Province",
+         "name": "Comoé Province",
          "isoCode": "COM",
          "countryCode": "BF"
       },
@@ -1926,7 +1926,7 @@
          "countryCode": "BF"
       },
       {
-         "name": "K\u00e9n\u00e9dougou Province",
+         "name": "Kénédougou Province",
          "isoCode": "KEN",
          "countryCode": "BF"
       },
@@ -1941,7 +1941,7 @@
          "countryCode": "BF"
       },
       {
-         "name": "Koulp\u00e9logo Province",
+         "name": "Koulpélogo Province",
          "isoCode": "KOP",
          "countryCode": "BF"
       },
@@ -1956,12 +1956,12 @@
          "countryCode": "BF"
       },
       {
-         "name": "Kourw\u00e9ogo Province",
+         "name": "Kourwéogo Province",
          "isoCode": "KOW",
          "countryCode": "BF"
       },
       {
-         "name": "L\u00e9raba Province",
+         "name": "Léraba Province",
          "isoCode": "LER",
          "countryCode": "BF"
       },
@@ -2006,7 +2006,7 @@
          "countryCode": "BF"
       },
       {
-         "name": "Passor\u00e9 Province",
+         "name": "Passoré Province",
          "isoCode": "PAS",
          "countryCode": "BF"
       },
@@ -2016,7 +2016,7 @@
          "countryCode": "BF"
       },
       {
-         "name": "S\u00e9no Province",
+         "name": "Séno Province",
          "isoCode": "SEN",
          "countryCode": "BF"
       },
@@ -2031,7 +2031,7 @@
          "countryCode": "BF"
       },
       {
-         "name": "Sangui\u00e9 Province",
+         "name": "Sanguié Province",
          "isoCode": "SNG",
          "countryCode": "BF"
       },
@@ -2076,7 +2076,7 @@
          "countryCode": "BF"
       },
       {
-         "name": "Zoundw\u00e9ogo Province",
+         "name": "Zoundwéogo Province",
          "isoCode": "ZOU",
          "countryCode": "BF"
       }
@@ -2389,7 +2389,7 @@
          "countryCode": "BJ"
       },
       {
-         "name": "Ou\u00e9m\u00e9 Department",
+         "name": "Ouémé Department",
          "isoCode": "OU",
          "countryCode": "BJ"
       },
@@ -2505,7 +2505,7 @@
          "countryCode": "BO"
       },
       {
-         "name": "Potos\u00ed Department",
+         "name": "Potosí Department",
          "isoCode": "P",
          "countryCode": "BO"
       },
@@ -2537,7 +2537,7 @@
          "countryCode": "BR"
       },
       {
-         "name": "Amap\u00e1",
+         "name": "Amapá",
          "isoCode": "AP",
          "countryCode": "BR"
       },
@@ -2547,7 +2547,7 @@
          "countryCode": "BR"
       },
       {
-         "name": "Cear\u00e1",
+         "name": "Ceará",
          "isoCode": "CE",
          "countryCode": "BR"
       },
@@ -2557,17 +2557,17 @@
          "countryCode": "BR"
       },
       {
-         "name": "Esp\u00edrito Santo",
+         "name": "Espírito Santo",
          "isoCode": "ES",
          "countryCode": "BR"
       },
       {
-         "name": "Goi\u00e1s",
+         "name": "Goiás",
          "isoCode": "GO",
          "countryCode": "BR"
       },
       {
-         "name": "Maranh\u00e3o",
+         "name": "Maranhão",
          "isoCode": "MA",
          "countryCode": "BR"
       },
@@ -2587,12 +2587,12 @@
          "countryCode": "BR"
       },
       {
-         "name": "Par\u00e1",
+         "name": "Pará",
          "isoCode": "PA",
          "countryCode": "BR"
       },
       {
-         "name": "Para\u00edba",
+         "name": "Paraíba",
          "isoCode": "PB",
          "countryCode": "BR"
       },
@@ -2602,12 +2602,12 @@
          "countryCode": "BR"
       },
       {
-         "name": "Piau\u00ed",
+         "name": "Piauí",
          "isoCode": "PI",
          "countryCode": "BR"
       },
       {
-         "name": "Paran\u00e1",
+         "name": "Paraná",
          "isoCode": "PR",
          "countryCode": "BR"
       },
@@ -2622,7 +2622,7 @@
          "countryCode": "BR"
       },
       {
-         "name": "Rond\u00f4nia",
+         "name": "Rondônia",
          "isoCode": "RO",
          "countryCode": "BR"
       },
@@ -2647,7 +2647,7 @@
          "countryCode": "BR"
       },
       {
-         "name": "S\u00e3o Paulo",
+         "name": "São Paulo",
          "isoCode": "SP",
          "countryCode": "BR"
       },
@@ -3161,12 +3161,12 @@
          "countryCode": "CD"
       },
       {
-         "name": "Bas-U\u00e9l\u00e9",
+         "name": "Bas-Uélé",
          "isoCode": "BU",
          "countryCode": "CD"
       },
       {
-         "name": "\u00c9quateur",
+         "name": "Équateur",
          "isoCode": "EQ",
          "countryCode": "CD"
       },
@@ -3181,7 +3181,7 @@
          "countryCode": "CD"
       },
       {
-         "name": "Haut-U\u00e9l\u00e9",
+         "name": "Haut-Uélé",
          "isoCode": "HU",
          "countryCode": "CD"
       },
@@ -3191,12 +3191,12 @@
          "countryCode": "CD"
       },
       {
-         "name": "Kasa\u00ef Central",
+         "name": "Kasaï Central",
          "isoCode": "KC",
          "countryCode": "CD"
       },
       {
-         "name": "Kasa\u00ef Oriental",
+         "name": "Kasaï Oriental",
          "isoCode": "KE",
          "countryCode": "CD"
       },
@@ -3216,7 +3216,7 @@
          "countryCode": "CD"
       },
       {
-         "name": "Kasa\u00ef",
+         "name": "Kasaï",
          "isoCode": "KS",
          "countryCode": "CD"
       },
@@ -3318,17 +3318,17 @@
          "countryCode": "CF"
       },
       {
-         "name": "Mamb\u00e9r\u00e9-Kad\u00e9\u00ef",
+         "name": "Mambéré-Kadéï",
          "isoCode": "HS",
          "countryCode": "CF"
       },
       {
-         "name": "Nana-Gr\u00e9bizi Economic Prefecture",
+         "name": "Nana-Grébizi Economic Prefecture",
          "isoCode": "KB",
          "countryCode": "CF"
       },
       {
-         "name": "K\u00e9mo Prefecture",
+         "name": "Kémo Prefecture",
          "isoCode": "KG",
          "countryCode": "CF"
       },
@@ -3348,17 +3348,17 @@
          "countryCode": "CF"
       },
       {
-         "name": "Nana-Mamb\u00e9r\u00e9 Prefecture",
+         "name": "Nana-Mambéré Prefecture",
          "isoCode": "NM",
          "countryCode": "CF"
       },
       {
-         "name": "Ouham-Pend\u00e9 Prefecture",
+         "name": "Ouham-Pendé Prefecture",
          "isoCode": "OP",
          "countryCode": "CF"
       },
       {
-         "name": "Sangha-Mba\u00e9r\u00e9",
+         "name": "Sangha-Mbaéré",
          "isoCode": "SE",
          "countryCode": "CF"
       },
@@ -3405,7 +3405,7 @@
          "countryCode": "CG"
       },
       {
-         "name": "L\u00e9koumou Department",
+         "name": "Lékoumou Department",
          "isoCode": "2",
          "countryCode": "CG"
       },
@@ -3482,7 +3482,7 @@
          "countryCode": "CH"
       },
       {
-         "name": "Graub\u00fcnden",
+         "name": "Graubünden",
          "isoCode": "GR",
          "countryCode": "CH"
       },
@@ -3497,7 +3497,7 @@
          "countryCode": "CH"
       },
       {
-         "name": "Neuch\u00e2tel",
+         "name": "Neuchâtel",
          "isoCode": "NE",
          "countryCode": "CH"
       },
@@ -3562,7 +3562,7 @@
          "countryCode": "CH"
       },
       {
-         "name": "Z\u00fcrich",
+         "name": "Zürich",
          "isoCode": "ZH",
          "countryCode": "CH"
       }
@@ -3584,12 +3584,12 @@
          "countryCode": "CI"
       },
       {
-         "name": "Vall\u00e9e du Bandama Region",
+         "name": "Vallée du Bandama Region",
          "isoCode": "04",
          "countryCode": "CI"
       },
       {
-         "name": "Moyen-Como\u00e9",
+         "name": "Moyen-Comoé",
          "isoCode": "05",
          "countryCode": "CI"
       },
@@ -3609,22 +3609,22 @@
          "countryCode": "CI"
       },
       {
-         "name": "Dengu\u00e9l\u00e9 Region",
+         "name": "Denguélé Region",
          "isoCode": "10",
          "countryCode": "CI"
       },
       {
-         "name": "N'zi-Como\u00e9",
+         "name": "N'zi-Comoé",
          "isoCode": "11",
          "countryCode": "CI"
       },
       {
-         "name": "Marahou\u00e9 Region",
+         "name": "Marahoué Region",
          "isoCode": "12",
          "countryCode": "CI"
       },
       {
-         "name": "Sud-Como\u00e9",
+         "name": "Sud-Comoé",
          "isoCode": "13",
          "countryCode": "CI"
       },
@@ -3639,7 +3639,7 @@
          "countryCode": "CI"
       },
       {
-         "name": "Agn\u00e9by",
+         "name": "Agnéby",
          "isoCode": "16",
          "countryCode": "CI"
       },
@@ -3669,17 +3669,17 @@
          "countryCode": "CI"
       },
       {
-         "name": "Como\u00e9 District",
+         "name": "Comoé District",
          "isoCode": "CM",
          "countryCode": "CI"
       },
       {
-         "name": "Dengu\u00e9l\u00e9 District",
+         "name": "Denguélé District",
          "isoCode": "DN",
          "countryCode": "CI"
       },
       {
-         "name": "G\u00f4h-Djiboua District",
+         "name": "Gôh-Djiboua District",
          "isoCode": "GD",
          "countryCode": "CI"
       },
@@ -3699,12 +3699,12 @@
          "countryCode": "CI"
       },
       {
-         "name": "Sassandra-Marahou\u00e9 District",
+         "name": "Sassandra-Marahoué District",
          "isoCode": "SM",
          "countryCode": "CI"
       },
       {
-         "name": "Vall\u00e9e du Bandama District",
+         "name": "Vallée du Bandama District",
          "isoCode": "VB",
          "countryCode": "CI"
       },
@@ -3726,7 +3726,7 @@
    ],
    "Chile-CL": [
       {
-         "name": "Ais\u00e9n del General Carlos Iba\u00f1ez del Campo",
+         "name": "Aisén del General Carlos Ibañez del Campo",
          "isoCode": "AI",
          "countryCode": "CL"
       },
@@ -3741,7 +3741,7 @@
          "countryCode": "CL"
       },
       {
-         "name": "La Araucan\u00eda",
+         "name": "La Araucanía",
          "isoCode": "AR",
          "countryCode": "CL"
       },
@@ -3751,7 +3751,7 @@
          "countryCode": "CL"
       },
       {
-         "name": "Biob\u00edo",
+         "name": "Biobío",
          "isoCode": "BI",
          "countryCode": "CL"
       },
@@ -3771,12 +3771,12 @@
          "countryCode": "CL"
       },
       {
-         "name": "Los R\u00edos",
+         "name": "Los Ríos",
          "isoCode": "LR",
          "countryCode": "CL"
       },
       {
-         "name": "Magallanes y de la Ant\u00e1rtica Chilena",
+         "name": "Magallanes y de la Antártica Chilena",
          "isoCode": "MA",
          "countryCode": "CL"
       },
@@ -3786,22 +3786,22 @@
          "countryCode": "CL"
       },
       {
-         "name": "\u00d1uble",
+         "name": "Ñuble",
          "isoCode": "NB",
          "countryCode": "CL"
       },
       {
-         "name": "Regi\u00f3n Metropolitana de Santiago",
+         "name": "Región Metropolitana de Santiago",
          "isoCode": "RM",
          "countryCode": "CL"
       },
       {
-         "name": "Tarapac\u00e1",
+         "name": "Tarapacá",
          "isoCode": "TA",
          "countryCode": "CL"
       },
       {
-         "name": "Valpara\u00edso",
+         "name": "Valparaíso",
          "isoCode": "VS",
          "countryCode": "CL"
       }
@@ -4047,17 +4047,17 @@
          "countryCode": "CO"
       },
       {
-         "name": "Atl\u00e1ntico",
+         "name": "Atlántico",
          "isoCode": "ATL",
          "countryCode": "CO"
       },
       {
-         "name": "Bol\u00edvar",
+         "name": "Bolívar",
          "isoCode": "BOL",
          "countryCode": "CO"
       },
       {
-         "name": "Boyac\u00e1",
+         "name": "Boyacá",
          "isoCode": "BOY",
          "countryCode": "CO"
       },
@@ -4067,7 +4067,7 @@
          "countryCode": "CO"
       },
       {
-         "name": "Caquet\u00e1",
+         "name": "Caquetá",
          "isoCode": "CAQ",
          "countryCode": "CO"
       },
@@ -4087,12 +4087,12 @@
          "countryCode": "CO"
       },
       {
-         "name": "Choc\u00f3",
+         "name": "Chocó",
          "isoCode": "CHO",
          "countryCode": "CO"
       },
       {
-         "name": "C\u00f3rdoba",
+         "name": "Córdoba",
          "isoCode": "COR",
          "countryCode": "CO"
       },
@@ -4102,12 +4102,12 @@
          "countryCode": "CO"
       },
       {
-         "name": "Bogot\u00e1 D.C.",
+         "name": "Bogotá D.C.",
          "isoCode": "DC",
          "countryCode": "CO"
       },
       {
-         "name": "Guain\u00eda",
+         "name": "Guainía",
          "isoCode": "GUA",
          "countryCode": "CO"
       },
@@ -4137,7 +4137,7 @@
          "countryCode": "CO"
       },
       {
-         "name": "Nari\u00f1o",
+         "name": "Nariño",
          "isoCode": "NAR",
          "countryCode": "CO"
       },
@@ -4152,7 +4152,7 @@
          "countryCode": "CO"
       },
       {
-         "name": "Quind\u00edo",
+         "name": "Quindío",
          "isoCode": "QUI",
          "countryCode": "CO"
       },
@@ -4167,7 +4167,7 @@
          "countryCode": "CO"
       },
       {
-         "name": "Archipi\u00e9lago de San Andr\u00e9s, Providencia y Santa Catalina",
+         "name": "Archipiélago de San Andrés, Providencia y Santa Catalina",
          "isoCode": "SAP",
          "countryCode": "CO"
       },
@@ -4187,7 +4187,7 @@
          "countryCode": "CO"
       },
       {
-         "name": "Vaup\u00e9s",
+         "name": "Vaupés",
          "isoCode": "VAU",
          "countryCode": "CO"
       },
@@ -4219,7 +4219,7 @@
          "countryCode": "CR"
       },
       {
-         "name": "Lim\u00f3n Province",
+         "name": "Limón Province",
          "isoCode": "L",
          "countryCode": "CR"
       },
@@ -4229,14 +4229,14 @@
          "countryCode": "CR"
       },
       {
-         "name": "San Jos\u00e9 Province",
+         "name": "San José Province",
          "isoCode": "SJ",
          "countryCode": "CR"
       }
    ],
    "Cuba-CU": [
       {
-         "name": "Pinar del R\u00edo Province",
+         "name": "Pinar del Río Province",
          "isoCode": "01",
          "countryCode": "CU"
       },
@@ -4261,17 +4261,17 @@
          "countryCode": "CU"
       },
       {
-         "name": "Sancti Sp\u00edritus Province",
+         "name": "Sancti Spíritus Province",
          "isoCode": "07",
          "countryCode": "CU"
       },
       {
-         "name": "Ciego de \u00c1vila Province",
+         "name": "Ciego de Ávila Province",
          "isoCode": "08",
          "countryCode": "CU"
       },
       {
-         "name": "Camag\u00fcey Province",
+         "name": "Camagüey Province",
          "isoCode": "09",
          "countryCode": "CU"
       },
@@ -4281,7 +4281,7 @@
          "countryCode": "CU"
       },
       {
-         "name": "Holgu\u00edn Province",
+         "name": "Holguín Province",
          "isoCode": "11",
          "countryCode": "CU"
       },
@@ -4296,7 +4296,7 @@
          "countryCode": "CU"
       },
       {
-         "name": "Guant\u00e1namo Province",
+         "name": "Guantánamo Province",
          "isoCode": "14",
          "countryCode": "CU"
       },
@@ -4393,12 +4393,12 @@
          "countryCode": "CV"
       },
       {
-         "name": "S\u00e3o Domingos",
+         "name": "São Domingos",
          "isoCode": "SD",
          "countryCode": "CV"
       },
       {
-         "name": "S\u00e3o Filipe",
+         "name": "São Filipe",
          "isoCode": "SF",
          "countryCode": "CV"
       },
@@ -4408,17 +4408,17 @@
          "countryCode": "CV"
       },
       {
-         "name": "S\u00e3o Miguel",
+         "name": "São Miguel",
          "isoCode": "SM",
          "countryCode": "CV"
       },
       {
-         "name": "S\u00e3o Louren\u00e7o dos \u00d3rg\u00e3os",
+         "name": "São Lourenço dos Órgãos",
          "isoCode": "SO",
          "countryCode": "CV"
       },
       {
-         "name": "S\u00e3o Vicente",
+         "name": "São Vicente",
          "isoCode": "SV",
          "countryCode": "CV"
       },
@@ -4428,14 +4428,14 @@
          "countryCode": "CV"
       },
       {
-         "name": "Tarrafal de S\u00e3o Nicolau",
+         "name": "Tarrafal de São Nicolau",
          "isoCode": "TS",
          "countryCode": "CV"
       }
    ],
    "Cyprus-CY": [
       {
-         "name": "Nicosia District (Lefko\u015fa)",
+         "name": "Nicosia District (Lefkoşa)",
          "isoCode": "01",
          "countryCode": "CY"
       },
@@ -4450,7 +4450,7 @@
          "countryCode": "CY"
       },
       {
-         "name": "Famagusta District (Ma\u011fusa)",
+         "name": "Famagusta District (Mağusa)",
          "isoCode": "04",
          "countryCode": "CY"
       },
@@ -4467,17 +4467,17 @@
    ],
    "Czech_Republic-CZ": [
       {
-         "name": "Praha, Hlavn\u00ed m\u011bsto",
+         "name": "Praha, Hlavní město",
          "isoCode": "10",
          "countryCode": "CZ"
       },
       {
-         "name": "St\u0159edo\u010desk\u00fd kraj",
+         "name": "Středočeský kraj",
          "isoCode": "20",
          "countryCode": "CZ"
       },
       {
-         "name": "Bene\u0161ov",
+         "name": "Benešov",
          "isoCode": "201",
          "countryCode": "CZ"
       },
@@ -4492,22 +4492,22 @@
          "countryCode": "CZ"
       },
       {
-         "name": "Kol\u00edn",
+         "name": "Kolín",
          "isoCode": "204",
          "countryCode": "CZ"
       },
       {
-         "name": "Kutn\u00e1 Hora",
+         "name": "Kutná Hora",
          "isoCode": "205",
          "countryCode": "CZ"
       },
       {
-         "name": "M\u011bln\u00edk",
+         "name": "Mělník",
          "isoCode": "206",
          "countryCode": "CZ"
       },
       {
-         "name": "Mlad\u00e1 Boleslav",
+         "name": "Mladá Boleslav",
          "isoCode": "207",
          "countryCode": "CZ"
       },
@@ -4517,47 +4517,47 @@
          "countryCode": "CZ"
       },
       {
-         "name": "Praha-v\u00fdchod",
+         "name": "Praha-východ",
          "isoCode": "209",
          "countryCode": "CZ"
       },
       {
-         "name": "Praha-z\u00e1pad",
+         "name": "Praha-západ",
          "isoCode": "20A",
          "countryCode": "CZ"
       },
       {
-         "name": "P\u0159\u00edbram",
+         "name": "Příbram",
          "isoCode": "20B",
          "countryCode": "CZ"
       },
       {
-         "name": "Rakovn\u00edk",
+         "name": "Rakovník",
          "isoCode": "20C",
          "countryCode": "CZ"
       },
       {
-         "name": "Jiho\u010desk\u00fd kraj",
+         "name": "Jihočeský kraj",
          "isoCode": "31",
          "countryCode": "CZ"
       },
       {
-         "name": "\u010cesk\u00e9 Bud\u011bjovice",
+         "name": "České Budějovice",
          "isoCode": "311",
          "countryCode": "CZ"
       },
       {
-         "name": "\u010cesk\u00fd Krumlov",
+         "name": "Český Krumlov",
          "isoCode": "312",
          "countryCode": "CZ"
       },
       {
-         "name": "Jind\u0159ich\u016fv Hradec",
+         "name": "Jindřichův Hradec",
          "isoCode": "313",
          "countryCode": "CZ"
       },
       {
-         "name": "P\u00edsek",
+         "name": "Písek",
          "isoCode": "314",
          "countryCode": "CZ"
       },
@@ -4572,17 +4572,17 @@
          "countryCode": "CZ"
       },
       {
-         "name": "T\u00e1bor",
+         "name": "Tábor",
          "isoCode": "317",
          "countryCode": "CZ"
       },
       {
-         "name": "Plze\u0148sk\u00fd kraj",
+         "name": "Plzeňský kraj",
          "isoCode": "32",
          "countryCode": "CZ"
       },
       {
-         "name": "Doma\u017elice",
+         "name": "Domažlice",
          "isoCode": "321",
          "countryCode": "CZ"
       },
@@ -4592,17 +4592,17 @@
          "countryCode": "CZ"
       },
       {
-         "name": "Plze\u0148-m\u011bsto",
+         "name": "Plzeň-město",
          "isoCode": "323",
          "countryCode": "CZ"
       },
       {
-         "name": "Plze\u0148-jih",
+         "name": "Plzeň-jih",
          "isoCode": "324",
          "countryCode": "CZ"
       },
       {
-         "name": "Plze\u0148-sever",
+         "name": "Plzeň-sever",
          "isoCode": "325",
          "countryCode": "CZ"
       },
@@ -4617,7 +4617,7 @@
          "countryCode": "CZ"
       },
       {
-         "name": "Karlovarsk\u00fd kraj",
+         "name": "Karlovarský kraj",
          "isoCode": "41",
          "countryCode": "CZ"
       },
@@ -4637,12 +4637,12 @@
          "countryCode": "CZ"
       },
       {
-         "name": "\u00dasteck\u00fd kraj",
+         "name": "Ústecký kraj",
          "isoCode": "42",
          "countryCode": "CZ"
       },
       {
-         "name": "D\u011b\u010d\u00edn",
+         "name": "Děčín",
          "isoCode": "421",
          "countryCode": "CZ"
       },
@@ -4652,7 +4652,7 @@
          "countryCode": "CZ"
       },
       {
-         "name": "Litom\u011b\u0159ice",
+         "name": "Litoměřice",
          "isoCode": "423",
          "countryCode": "CZ"
       },
@@ -4672,17 +4672,17 @@
          "countryCode": "CZ"
       },
       {
-         "name": "\u00dast\u00ed nad Labem",
+         "name": "Ústí nad Labem",
          "isoCode": "427",
          "countryCode": "CZ"
       },
       {
-         "name": "Libereck\u00fd kraj",
+         "name": "Liberecký kraj",
          "isoCode": "51",
          "countryCode": "CZ"
       },
       {
-         "name": "\u010cesk\u00e1 L\u00edpa",
+         "name": "Česká Lípa",
          "isoCode": "511",
          "countryCode": "CZ"
       },
@@ -4702,27 +4702,27 @@
          "countryCode": "CZ"
       },
       {
-         "name": "Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+         "name": "Královéhradecký kraj",
          "isoCode": "52",
          "countryCode": "CZ"
       },
       {
-         "name": "Hradec Kr\u00e1lov\u00e9",
+         "name": "Hradec Králové",
          "isoCode": "521",
          "countryCode": "CZ"
       },
       {
-         "name": "Ji\u010d\u00edn",
+         "name": "Jičín",
          "isoCode": "522",
          "countryCode": "CZ"
       },
       {
-         "name": "N\u00e1chod",
+         "name": "Náchod",
          "isoCode": "523",
          "countryCode": "CZ"
       },
       {
-         "name": "Rychnov nad Kn\u011b\u017enou",
+         "name": "Rychnov nad Kněžnou",
          "isoCode": "524",
          "countryCode": "CZ"
       },
@@ -4732,7 +4732,7 @@
          "countryCode": "CZ"
       },
       {
-         "name": "Pardubick\u00fd kraj",
+         "name": "Pardubický kraj",
          "isoCode": "53",
          "countryCode": "CZ"
       },
@@ -4752,17 +4752,17 @@
          "countryCode": "CZ"
       },
       {
-         "name": "\u00dast\u00ed nad Orlic\u00ed",
+         "name": "Ústí nad Orlicí",
          "isoCode": "534",
          "countryCode": "CZ"
       },
       {
-         "name": "Kraj Vyso\u010dina",
+         "name": "Kraj Vysočina",
          "isoCode": "63",
          "countryCode": "CZ"
       },
       {
-         "name": "Havl\u00ed\u010dk\u016fv Brod",
+         "name": "Havlíčkův Brod",
          "isoCode": "631",
          "countryCode": "CZ"
       },
@@ -4772,22 +4772,22 @@
          "countryCode": "CZ"
       },
       {
-         "name": "Pelh\u0159imov",
+         "name": "Pelhřimov",
          "isoCode": "633",
          "countryCode": "CZ"
       },
       {
-         "name": "T\u0159eb\u00ed\u010d",
+         "name": "Třebíč",
          "isoCode": "634",
          "countryCode": "CZ"
       },
       {
-         "name": "\u017d\u010f\u00e1r nad S\u00e1zavou",
+         "name": "Žďár nad Sázavou",
          "isoCode": "635",
          "countryCode": "CZ"
       },
       {
-         "name": "Jihomoravsk\u00fd kraj",
+         "name": "Jihomoravský kraj",
          "isoCode": "64",
          "countryCode": "CZ"
       },
@@ -4797,7 +4797,7 @@
          "countryCode": "CZ"
       },
       {
-         "name": "Brno-m\u011bsto",
+         "name": "Brno-město",
          "isoCode": "642",
          "countryCode": "CZ"
       },
@@ -4807,17 +4807,17 @@
          "countryCode": "CZ"
       },
       {
-         "name": "B\u0159eclav",
+         "name": "Břeclav",
          "isoCode": "644",
          "countryCode": "CZ"
       },
       {
-         "name": "Hodon\u00edn",
+         "name": "Hodonín",
          "isoCode": "645",
          "countryCode": "CZ"
       },
       {
-         "name": "Vy\u0161kov",
+         "name": "Vyškov",
          "isoCode": "646",
          "countryCode": "CZ"
       },
@@ -4827,12 +4827,12 @@
          "countryCode": "CZ"
       },
       {
-         "name": "Olomouck\u00fd kraj",
+         "name": "Olomoucký kraj",
          "isoCode": "71",
          "countryCode": "CZ"
       },
       {
-         "name": "Jesen\u00edk",
+         "name": "Jeseník",
          "isoCode": "711",
          "countryCode": "CZ"
       },
@@ -4842,67 +4842,67 @@
          "countryCode": "CZ"
       },
       {
-         "name": "Prost\u011bjov",
+         "name": "Prostějov",
          "isoCode": "713",
          "countryCode": "CZ"
       },
       {
-         "name": "P\u0159erov",
+         "name": "Přerov",
          "isoCode": "714",
          "countryCode": "CZ"
       },
       {
-         "name": "\u0160umperk",
+         "name": "Šumperk",
          "isoCode": "715",
          "countryCode": "CZ"
       },
       {
-         "name": "Zl\u00ednsk\u00fd kraj",
+         "name": "Zlínský kraj",
          "isoCode": "72",
          "countryCode": "CZ"
       },
       {
-         "name": "Krom\u011b\u0159\u00ed\u017e",
+         "name": "Kroměříž",
          "isoCode": "721",
          "countryCode": "CZ"
       },
       {
-         "name": "Uhersk\u00e9 Hradi\u0161t\u011b",
+         "name": "Uherské Hradiště",
          "isoCode": "722",
          "countryCode": "CZ"
       },
       {
-         "name": "Vset\u00edn",
+         "name": "Vsetín",
          "isoCode": "723",
          "countryCode": "CZ"
       },
       {
-         "name": "Zl\u00edn",
+         "name": "Zlín",
          "isoCode": "724",
          "countryCode": "CZ"
       },
       {
-         "name": "Moravskoslezsk\u00fd kraj",
+         "name": "Moravskoslezský kraj",
          "isoCode": "80",
          "countryCode": "CZ"
       },
       {
-         "name": "Brunt\u00e1l",
+         "name": "Bruntál",
          "isoCode": "801",
          "countryCode": "CZ"
       },
       {
-         "name": "Fr\u00fddek-M\u00edstek",
+         "name": "Frýdek-Místek",
          "isoCode": "802",
          "countryCode": "CZ"
       },
       {
-         "name": "Karvin\u00e1",
+         "name": "Karviná",
          "isoCode": "803",
          "countryCode": "CZ"
       },
       {
-         "name": "Nov\u00fd Ji\u010d\u00edn",
+         "name": "Nový Jičín",
          "isoCode": "804",
          "countryCode": "CZ"
       },
@@ -4912,7 +4912,7 @@
          "countryCode": "CZ"
       },
       {
-         "name": "Ostrava-m\u011bsto",
+         "name": "Ostrava-město",
          "isoCode": "806",
          "countryCode": "CZ"
       }
@@ -4929,7 +4929,7 @@
          "countryCode": "DE"
       },
       {
-         "name": "Baden-W\u00fcrttemberg",
+         "name": "Baden-Württemberg",
          "isoCode": "BW",
          "countryCode": "DE"
       },
@@ -5132,7 +5132,7 @@
          "countryCode": "DO"
       },
       {
-         "name": "Dajab\u00f3n Province",
+         "name": "Dajabón Province",
          "isoCode": "05",
          "countryCode": "DO"
       },
@@ -5172,7 +5172,7 @@
          "countryCode": "DO"
       },
       {
-         "name": "Mar\u00eda Trinidad S\u00e1nchez Province",
+         "name": "María Trinidad Sánchez Province",
          "isoCode": "14",
          "countryCode": "DO"
       },
@@ -5202,12 +5202,12 @@
          "countryCode": "DO"
       },
       {
-         "name": "Saman\u00e1 Province",
+         "name": "Samaná Province",
          "isoCode": "20",
          "countryCode": "DO"
       },
       {
-         "name": "San Crist\u00f3bal Province",
+         "name": "San Cristóbal Province",
          "isoCode": "21",
          "countryCode": "DO"
       },
@@ -5217,12 +5217,12 @@
          "countryCode": "DO"
       },
       {
-         "name": "San Pedro de Macor\u00eds",
+         "name": "San Pedro de Macorís",
          "isoCode": "23",
          "countryCode": "DO"
       },
       {
-         "name": "S\u00e1nchez Ram\u00edrez Province",
+         "name": "Sánchez Ramírez Province",
          "isoCode": "24",
          "countryCode": "DO"
       },
@@ -5232,7 +5232,7 @@
          "countryCode": "DO"
       },
       {
-         "name": "Santiago Rodr\u00edguez Province",
+         "name": "Santiago Rodríguez Province",
          "isoCode": "26",
          "countryCode": "DO"
       },
@@ -5242,7 +5242,7 @@
          "countryCode": "DO"
       },
       {
-         "name": "Monse\u00f1or Nouel Province",
+         "name": "Monseñor Nouel Province",
          "isoCode": "28",
          "countryCode": "DO"
       },
@@ -5257,7 +5257,7 @@
          "countryCode": "DO"
       },
       {
-         "name": "San Jos\u00e9 de Ocoa Province",
+         "name": "San José de Ocoa Province",
          "isoCode": "31",
          "countryCode": "DO"
       },
@@ -5294,7 +5294,7 @@
          "countryCode": "DZ"
       },
       {
-         "name": "B\u00e9ja\u00efa",
+         "name": "Béjaïa",
          "isoCode": "06",
          "countryCode": "DZ"
       },
@@ -5304,7 +5304,7 @@
          "countryCode": "DZ"
       },
       {
-         "name": "B\u00e9char",
+         "name": "Béchar",
          "isoCode": "08",
          "countryCode": "DZ"
       },
@@ -5314,7 +5314,7 @@
          "countryCode": "DZ"
       },
       {
-         "name": "Bou\u00efra",
+         "name": "Bouïra",
          "isoCode": "10",
          "countryCode": "DZ"
       },
@@ -5324,7 +5324,7 @@
          "countryCode": "DZ"
       },
       {
-         "name": "T\u00e9bessa",
+         "name": "Tébessa",
          "isoCode": "12",
          "countryCode": "DZ"
       },
@@ -5359,12 +5359,12 @@
          "countryCode": "DZ"
       },
       {
-         "name": "S\u00e9tif",
+         "name": "Sétif",
          "isoCode": "19",
          "countryCode": "DZ"
       },
       {
-         "name": "Sa\u00efda",
+         "name": "Saïda",
          "isoCode": "20",
          "countryCode": "DZ"
       },
@@ -5374,7 +5374,7 @@
          "countryCode": "DZ"
       },
       {
-         "name": "Sidi Bel Abb\u00e8s",
+         "name": "Sidi Bel Abbès",
          "isoCode": "22",
          "countryCode": "DZ"
       },
@@ -5394,7 +5394,7 @@
          "countryCode": "DZ"
       },
       {
-         "name": "M\u00e9d\u00e9a",
+         "name": "Médéa",
          "isoCode": "26",
          "countryCode": "DZ"
       },
@@ -5434,12 +5434,12 @@
          "countryCode": "DZ"
       },
       {
-         "name": "Bordj Bou Arr\u00e9ridj",
+         "name": "Bordj Bou Arréridj",
          "isoCode": "34",
          "countryCode": "DZ"
       },
       {
-         "name": "Boumerd\u00e8s",
+         "name": "Boumerdès",
          "isoCode": "35",
          "countryCode": "DZ"
       },
@@ -5484,7 +5484,7 @@
          "countryCode": "DZ"
       },
       {
-         "name": "A\u00efn Defla",
+         "name": "Aïn Defla",
          "isoCode": "44",
          "countryCode": "DZ"
       },
@@ -5494,12 +5494,12 @@
          "countryCode": "DZ"
       },
       {
-         "name": "A\u00efn T\u00e9mouchent",
+         "name": "Aïn Témouchent",
          "isoCode": "46",
          "countryCode": "DZ"
       },
       {
-         "name": "Gharda\u00efa",
+         "name": "Ghardaïa",
          "isoCode": "47",
          "countryCode": "DZ"
       },
@@ -5529,7 +5529,7 @@
          "countryCode": "DZ"
       },
       {
-         "name": "B\u00e9ni Abb\u00e8s",
+         "name": "Béni Abbès",
          "isoCode": "53",
          "countryCode": "DZ"
       },
@@ -5566,7 +5566,7 @@
          "countryCode": "EC"
       },
       {
-         "name": "Bol\u00edvar",
+         "name": "Bolívar",
          "isoCode": "B",
          "countryCode": "EC"
       },
@@ -5586,7 +5586,7 @@
          "countryCode": "EC"
       },
       {
-         "name": "Ca\u00f1ar",
+         "name": "Cañar",
          "isoCode": "F",
          "countryCode": "EC"
       },
@@ -5611,7 +5611,7 @@
          "countryCode": "EC"
       },
       {
-         "name": "Manab\u00ed",
+         "name": "Manabí",
          "isoCode": "M",
          "countryCode": "EC"
       },
@@ -5631,7 +5631,7 @@
          "countryCode": "EC"
       },
       {
-         "name": "Los R\u00edos",
+         "name": "Los Ríos",
          "isoCode": "R",
          "countryCode": "EC"
       },
@@ -5641,7 +5641,7 @@
          "countryCode": "EC"
       },
       {
-         "name": "Santo Domingo de los Ts\u00e1chilas",
+         "name": "Santo Domingo de los Tsáchilas",
          "isoCode": "SD",
          "countryCode": "EC"
       },
@@ -5656,12 +5656,12 @@
          "countryCode": "EC"
       },
       {
-         "name": "Sucumb\u00edos",
+         "name": "Sucumbíos",
          "isoCode": "U",
          "countryCode": "EC"
       },
       {
-         "name": "Gal\u00e1pagos",
+         "name": "Galápagos",
          "isoCode": "W",
          "countryCode": "EC"
       },
@@ -5698,32 +5698,32 @@
          "countryCode": "EE"
       },
       {
-         "name": "J\u00f5geva County",
+         "name": "Jõgeva County",
          "isoCode": "49",
          "countryCode": "EE"
       },
       {
-         "name": "J\u00e4rva County",
+         "name": "Järva County",
          "isoCode": "51",
          "countryCode": "EE"
       },
       {
-         "name": "L\u00e4\u00e4ne County",
+         "name": "Lääne County",
          "isoCode": "57",
          "countryCode": "EE"
       },
       {
-         "name": "L\u00e4\u00e4ne-Viru County",
+         "name": "Lääne-Viru County",
          "isoCode": "59",
          "countryCode": "EE"
       },
       {
-         "name": "P\u00f5lva County",
+         "name": "Põlva County",
          "isoCode": "65",
          "countryCode": "EE"
       },
       {
-         "name": "P\u00e4rnu County",
+         "name": "Pärnu County",
          "isoCode": "67",
          "countryCode": "EE"
       },
@@ -5753,7 +5753,7 @@
          "countryCode": "EE"
       },
       {
-         "name": "V\u00f5ru County",
+         "name": "Võru County",
          "isoCode": "86",
          "countryCode": "EE"
       }
@@ -5944,7 +5944,7 @@
          "countryCode": "ES"
       },
       {
-         "name": "\u00c1vila",
+         "name": "Ávila",
          "isoCode": "AV",
          "countryCode": "ES"
       },
@@ -5964,7 +5964,7 @@
          "countryCode": "ES"
       },
       {
-         "name": "Castile and Le\u00f3n",
+         "name": "Castile and León",
          "isoCode": "CL",
          "countryCode": "ES"
       },
@@ -5994,7 +5994,7 @@
          "countryCode": "ES"
       },
       {
-         "name": "L\u00e9on",
+         "name": "Léon",
          "isoCode": "LE",
          "countryCode": "ES"
       },
@@ -6128,7 +6128,7 @@
    ],
    "Finland-FI": [
       {
-         "name": "\u00c5land Islands",
+         "name": "Åland Islands",
          "isoCode": "01",
          "countryCode": "FI"
       },
@@ -6198,7 +6198,7 @@
          "countryCode": "FI"
       },
       {
-         "name": "P\u00e4ij\u00e4nne Tavastia",
+         "name": "Päijänne Tavastia",
          "isoCode": "16",
          "countryCode": "FI"
       },
@@ -6384,7 +6384,7 @@
          "countryCode": "FR"
       },
       {
-         "name": "Ard\u00e8che",
+         "name": "Ardèche",
          "isoCode": "07",
          "countryCode": "FR"
       },
@@ -6394,7 +6394,7 @@
          "countryCode": "FR"
       },
       {
-         "name": "Ari\u00e8ge",
+         "name": "Ariège",
          "isoCode": "09",
          "countryCode": "FR"
       },
@@ -6414,7 +6414,7 @@
          "countryCode": "FR"
       },
       {
-         "name": "Bouches-du-Rh\u00f4ne",
+         "name": "Bouches-du-Rhône",
          "isoCode": "13",
          "countryCode": "FR"
       },
@@ -6444,7 +6444,7 @@
          "countryCode": "FR"
       },
       {
-         "name": "Corr\u00e8ze",
+         "name": "Corrèze",
          "isoCode": "19",
          "countryCode": "FR"
       },
@@ -6454,12 +6454,12 @@
          "countryCode": "FR"
       },
       {
-         "name": "C\u00f4te-d'Or",
+         "name": "Côte-d'Or",
          "isoCode": "21",
          "countryCode": "FR"
       },
       {
-         "name": "C\u00f4tes-d'Armor",
+         "name": "Côtes-d'Armor",
          "isoCode": "22",
          "countryCode": "FR"
       },
@@ -6479,7 +6479,7 @@
          "countryCode": "FR"
       },
       {
-         "name": "Dr\u00f4me",
+         "name": "Drôme",
          "isoCode": "26",
          "countryCode": "FR"
       },
@@ -6494,7 +6494,7 @@
          "countryCode": "FR"
       },
       {
-         "name": "Finist\u00e8re",
+         "name": "Finistère",
          "isoCode": "29",
          "countryCode": "FR"
       },
@@ -6529,7 +6529,7 @@
          "countryCode": "FR"
       },
       {
-         "name": "H\u00e9rault",
+         "name": "Hérault",
          "isoCode": "34",
          "countryCode": "FR"
       },
@@ -6549,7 +6549,7 @@
          "countryCode": "FR"
       },
       {
-         "name": "Is\u00e8re",
+         "name": "Isère",
          "isoCode": "38",
          "countryCode": "FR"
       },
@@ -6599,7 +6599,7 @@
          "countryCode": "FR"
       },
       {
-         "name": "Loz\u00e8re",
+         "name": "Lozère",
          "isoCode": "48",
          "countryCode": "FR"
       },
@@ -6649,7 +6649,7 @@
          "countryCode": "FR"
       },
       {
-         "name": "Ni\u00e8vre",
+         "name": "Nièvre",
          "isoCode": "58",
          "countryCode": "FR"
       },
@@ -6674,22 +6674,22 @@
          "countryCode": "FR"
       },
       {
-         "name": "Puy-de-D\u00f4me",
+         "name": "Puy-de-Dôme",
          "isoCode": "63",
          "countryCode": "FR"
       },
       {
-         "name": "Pyr\u00e9n\u00e9es-Atlantiques",
+         "name": "Pyrénées-Atlantiques",
          "isoCode": "64",
          "countryCode": "FR"
       },
       {
-         "name": "Hautes-Pyr\u00e9n\u00e9es",
+         "name": "Hautes-Pyrénées",
          "isoCode": "65",
          "countryCode": "FR"
       },
       {
-         "name": "Pyr\u00e9n\u00e9es-Orientales",
+         "name": "Pyrénées-Orientales",
          "isoCode": "66",
          "countryCode": "FR"
       },
@@ -6704,12 +6704,12 @@
          "countryCode": "FR"
       },
       {
-         "name": "Rh\u00f4ne",
+         "name": "Rhône",
          "isoCode": "69",
          "countryCode": "FR"
       },
       {
-         "name": "M\u00e9tropole de Lyon",
+         "name": "Métropole de Lyon",
          "isoCode": "69M",
          "countryCode": "FR"
       },
@@ -6719,12 +6719,12 @@
          "countryCode": "FR"
       },
       {
-         "name": "Haute-Sa\u00f4ne",
+         "name": "Haute-Saône",
          "isoCode": "70",
          "countryCode": "FR"
       },
       {
-         "name": "Sa\u00f4ne-et-Loire",
+         "name": "Saône-et-Loire",
          "isoCode": "71",
          "countryCode": "FR"
       },
@@ -6764,7 +6764,7 @@
          "countryCode": "FR"
       },
       {
-         "name": "Deux-S\u00e8vres",
+         "name": "Deux-Sèvres",
          "isoCode": "79",
          "countryCode": "FR"
       },
@@ -6794,7 +6794,7 @@
          "countryCode": "FR"
       },
       {
-         "name": "Vend\u00e9e",
+         "name": "Vendée",
          "isoCode": "85",
          "countryCode": "FR"
       },
@@ -6864,7 +6864,7 @@
          "countryCode": "FR"
       },
       {
-         "name": "La R\u00e9union",
+         "name": "La Réunion",
          "isoCode": "974",
          "countryCode": "FR"
       },
@@ -6874,17 +6874,17 @@
          "countryCode": "FR"
       },
       {
-         "name": "Auvergne-Rh\u00f4ne-Alpes",
+         "name": "Auvergne-Rhône-Alpes",
          "isoCode": "ARA",
          "countryCode": "FR"
       },
       {
-         "name": "Bourgogne-Franche-Comt\u00e9",
+         "name": "Bourgogne-Franche-Comté",
          "isoCode": "BFC",
          "countryCode": "FR"
       },
       {
-         "name": "Saint-Barth\u00e9lemy",
+         "name": "Saint-Barthélemy",
          "isoCode": "BL",
          "countryCode": "FR"
       },
@@ -6914,7 +6914,7 @@
          "countryCode": "FR"
       },
       {
-         "name": "\u00cele-de-France",
+         "name": "Île-de-France",
          "isoCode": "IDF",
          "countryCode": "FR"
       },
@@ -6939,7 +6939,7 @@
          "countryCode": "FR"
       },
       {
-         "name": "Provence-Alpes-C\u00f4te-d\u2019Azur",
+         "name": "Provence-Alpes-Côte-d’Azur",
          "isoCode": "PAC",
          "countryCode": "FR"
       },
@@ -6976,17 +6976,17 @@
          "countryCode": "GA"
       },
       {
-         "name": "Haut-Ogoou\u00e9 Province",
+         "name": "Haut-Ogooué Province",
          "isoCode": "2",
          "countryCode": "GA"
       },
       {
-         "name": "Moyen-Ogoou\u00e9 Province",
+         "name": "Moyen-Ogooué Province",
          "isoCode": "3",
          "countryCode": "GA"
       },
       {
-         "name": "Ngouni\u00e9 Province",
+         "name": "Ngounié Province",
          "isoCode": "4",
          "countryCode": "GA"
       },
@@ -6996,17 +6996,17 @@
          "countryCode": "GA"
       },
       {
-         "name": "Ogoou\u00e9-Ivindo Province",
+         "name": "Ogooué-Ivindo Province",
          "isoCode": "6",
          "countryCode": "GA"
       },
       {
-         "name": "Ogoou\u00e9-Lolo Province",
+         "name": "Ogooué-Lolo Province",
          "isoCode": "7",
          "countryCode": "GA"
       },
       {
-         "name": "Ogoou\u00e9-Maritime Province",
+         "name": "Ogooué-Maritime Province",
          "isoCode": "8",
          "countryCode": "GA"
       },
@@ -8478,7 +8478,7 @@
    ],
    "Guinea-GN": [
       {
-         "name": "Bok\u00e9 Region",
+         "name": "Boké Region",
          "isoCode": "B",
          "countryCode": "GN"
       },
@@ -8493,7 +8493,7 @@
          "countryCode": "GN"
       },
       {
-         "name": "Bok\u00e9 Prefecture",
+         "name": "Boké Prefecture",
          "isoCode": "BK",
          "countryCode": "GN"
       },
@@ -8528,7 +8528,7 @@
          "countryCode": "GN"
       },
       {
-         "name": "Dubr\u00e9ka Prefecture",
+         "name": "Dubréka Prefecture",
          "isoCode": "DU",
          "countryCode": "GN"
       },
@@ -8538,7 +8538,7 @@
          "countryCode": "GN"
       },
       {
-         "name": "For\u00e9cariah Prefecture",
+         "name": "Forécariah Prefecture",
          "isoCode": "FO",
          "countryCode": "GN"
       },
@@ -8553,7 +8553,7 @@
          "countryCode": "GN"
       },
       {
-         "name": "Gu\u00e9ck\u00e9dou Prefecture",
+         "name": "Guéckédou Prefecture",
          "isoCode": "GU",
          "countryCode": "GN"
       },
@@ -8578,7 +8578,7 @@
          "countryCode": "GN"
       },
       {
-         "name": "K\u00e9rouan\u00e9 Prefecture",
+         "name": "Kérouané Prefecture",
          "isoCode": "KE",
          "countryCode": "GN"
       },
@@ -8598,17 +8598,17 @@
          "countryCode": "GN"
       },
       {
-         "name": "Lab\u00e9 Region",
+         "name": "Labé Region",
          "isoCode": "L",
          "countryCode": "GN"
       },
       {
-         "name": "Lab\u00e9 Prefecture",
+         "name": "Labé Prefecture",
          "isoCode": "LA",
          "countryCode": "GN"
       },
       {
-         "name": "L\u00e9louma Prefecture",
+         "name": "Lélouma Prefecture",
          "isoCode": "LE",
          "countryCode": "GN"
       },
@@ -8643,12 +8643,12 @@
          "countryCode": "GN"
       },
       {
-         "name": "Nz\u00e9r\u00e9kor\u00e9 Region",
+         "name": "Nzérékoré Region",
          "isoCode": "N",
          "countryCode": "GN"
       },
       {
-         "name": "Nz\u00e9r\u00e9kor\u00e9 Prefecture",
+         "name": "Nzérékoré Prefecture",
          "isoCode": "NZ",
          "countryCode": "GN"
       },
@@ -8663,12 +8663,12 @@
          "countryCode": "GN"
       },
       {
-         "name": "T\u00e9lim\u00e9l\u00e9 Prefecture",
+         "name": "Télimélé Prefecture",
          "isoCode": "TE",
          "countryCode": "GN"
       },
       {
-         "name": "Tougu\u00e9 Prefecture",
+         "name": "Tougué Prefecture",
          "isoCode": "TO",
          "countryCode": "GN"
       },
@@ -8680,7 +8680,7 @@
    ],
    "Equatorial_Guinea-GQ": [
       {
-         "name": "Annob\u00f3n Province",
+         "name": "Annobón Province",
          "isoCode": "AN",
          "countryCode": "GQ"
       },
@@ -8695,7 +8695,7 @@
          "countryCode": "GQ"
       },
       {
-         "name": "R\u00edo Muni",
+         "name": "Río Muni",
          "isoCode": "C",
          "countryCode": "GQ"
       },
@@ -8710,7 +8710,7 @@
          "countryCode": "GQ"
       },
       {
-         "name": "Ki\u00e9-Ntem Province",
+         "name": "Kié-Ntem Province",
          "isoCode": "KN",
          "countryCode": "GQ"
       },
@@ -8969,7 +8969,7 @@
          "countryCode": "GT"
       },
       {
-         "name": "Pet\u00e9n Department",
+         "name": "Petén Department",
          "isoCode": "PE",
          "countryCode": "GT"
       },
@@ -8979,7 +8979,7 @@
          "countryCode": "GT"
       },
       {
-         "name": "Quich\u00e9 Department",
+         "name": "Quiché Department",
          "isoCode": "QC",
          "countryCode": "GT"
       },
@@ -8994,7 +8994,7 @@
          "countryCode": "GT"
       },
       {
-         "name": "Sacatep\u00e9quez Department",
+         "name": "Sacatepéquez Department",
          "isoCode": "SA",
          "countryCode": "GT"
       },
@@ -9004,7 +9004,7 @@
          "countryCode": "GT"
       },
       {
-         "name": "Solol\u00e1 Department",
+         "name": "Sololá Department",
          "isoCode": "SO",
          "countryCode": "GT"
       },
@@ -9014,19 +9014,19 @@
          "countryCode": "GT"
       },
       {
-         "name": "Suchitep\u00e9quez Department",
+         "name": "Suchitepéquez Department",
          "isoCode": "SU",
          "countryCode": "GT"
       },
       {
-         "name": "Totonicap\u00e1n Department",
+         "name": "Totonicapán Department",
          "isoCode": "TO",
          "countryCode": "GT"
       }
    ],
    "Guinea_Bissau-GW": [
       {
-         "name": "Bafat\u00e1",
+         "name": "Bafatá",
          "isoCode": "BA",
          "countryCode": "GW"
       },
@@ -9046,7 +9046,7 @@
          "countryCode": "GW"
       },
       {
-         "name": "Gab\u00fa Region",
+         "name": "Gabú Region",
          "isoCode": "GA",
          "countryCode": "GW"
       },
@@ -9222,7 +9222,7 @@
    ],
    "Honduras-HN": [
       {
-         "name": "Atl\u00e1ntida Department",
+         "name": "Atlántida Department",
          "isoCode": "AT",
          "countryCode": "HN"
       },
@@ -9232,7 +9232,7 @@
          "countryCode": "HN"
       },
       {
-         "name": "Col\u00f3n Department",
+         "name": "Colón Department",
          "isoCode": "CL",
          "countryCode": "HN"
       },
@@ -9242,22 +9242,22 @@
          "countryCode": "HN"
       },
       {
-         "name": "Cop\u00e1n Department",
+         "name": "Copán Department",
          "isoCode": "CP",
          "countryCode": "HN"
       },
       {
-         "name": "Cort\u00e9s Department",
+         "name": "Cortés Department",
          "isoCode": "CR",
          "countryCode": "HN"
       },
       {
-         "name": "El Para\u00edso Department",
+         "name": "El Paraíso Department",
          "isoCode": "EP",
          "countryCode": "HN"
       },
       {
-         "name": "Francisco Moraz\u00e1n Department",
+         "name": "Francisco Morazán Department",
          "isoCode": "FM",
          "countryCode": "HN"
       },
@@ -9272,7 +9272,7 @@
          "countryCode": "HN"
       },
       {
-         "name": "Intibuc\u00e1 Department",
+         "name": "Intibucá Department",
          "isoCode": "IN",
          "countryCode": "HN"
       },
@@ -9297,7 +9297,7 @@
          "countryCode": "HN"
       },
       {
-         "name": "Santa B\u00e1rbara Department",
+         "name": "Santa Bárbara Department",
          "isoCode": "SB",
          "countryCode": "HN"
       },
@@ -9334,7 +9334,7 @@
          "countryCode": "HR"
       },
       {
-         "name": "Koprivnica-Kri\u017eevci County",
+         "name": "Koprivnica-Križevci County",
          "isoCode": "06",
          "countryCode": "HR"
       },
@@ -9359,7 +9359,7 @@
          "countryCode": "HR"
       },
       {
-         "name": "Po\u017eega-Slavonia County",
+         "name": "Požega-Slavonia County",
          "isoCode": "11",
          "countryCode": "HR"
       },
@@ -9379,7 +9379,7 @@
          "countryCode": "HR"
       },
       {
-         "name": "\u0160ibenik-Knin County",
+         "name": "Šibenik-Knin County",
          "isoCode": "15",
          "countryCode": "HR"
       },
@@ -9404,7 +9404,7 @@
          "countryCode": "HR"
       },
       {
-         "name": "Me\u0111imurje County",
+         "name": "Međimurje County",
          "isoCode": "20",
          "countryCode": "HR"
       },
@@ -9473,17 +9473,17 @@
          "countryCode": "HU"
       },
       {
-         "name": "B\u00e9k\u00e9scsaba",
+         "name": "Békéscsaba",
          "isoCode": "BC",
          "countryCode": "HU"
       },
       {
-         "name": "B\u00e9k\u00e9s County",
+         "name": "Békés County",
          "isoCode": "BE",
          "countryCode": "HU"
       },
       {
-         "name": "B\u00e1cs-Kiskun County",
+         "name": "Bács-Kiskun County",
          "isoCode": "BK",
          "countryCode": "HU"
       },
@@ -9493,12 +9493,12 @@
          "countryCode": "HU"
       },
       {
-         "name": "Borsod-Aba\u00faj-Zempl\u00e9n County",
+         "name": "Borsod-Abaúj-Zemplén County",
          "isoCode": "BZ",
          "countryCode": "HU"
       },
       {
-         "name": "Csongr\u00e1d County",
+         "name": "Csongrád County",
          "isoCode": "CS",
          "countryCode": "HU"
       },
@@ -9508,7 +9508,7 @@
          "countryCode": "HU"
       },
       {
-         "name": "Duna\u00fajv\u00e1ros",
+         "name": "Dunaújváros",
          "isoCode": "DU",
          "countryCode": "HU"
       },
@@ -9518,27 +9518,27 @@
          "countryCode": "HU"
       },
       {
-         "name": "\u00c9rd",
+         "name": "Érd",
          "isoCode": "ER",
          "countryCode": "HU"
       },
       {
-         "name": "Fej\u00e9r County",
+         "name": "Fejér County",
          "isoCode": "FE",
          "countryCode": "HU"
       },
       {
-         "name": "Gy\u0151r-Moson-Sopron County",
+         "name": "Győr-Moson-Sopron County",
          "isoCode": "GS",
          "countryCode": "HU"
       },
       {
-         "name": "Gy\u0151r",
+         "name": "Győr",
          "isoCode": "GY",
          "countryCode": "HU"
       },
       {
-         "name": "Hajd\u00fa-Bihar County",
+         "name": "Hajdú-Bihar County",
          "isoCode": "HB",
          "countryCode": "HU"
       },
@@ -9548,22 +9548,22 @@
          "countryCode": "HU"
       },
       {
-         "name": "H\u00f3dmez\u0151v\u00e1s\u00e1rhely",
+         "name": "Hódmezővásárhely",
          "isoCode": "HV",
          "countryCode": "HU"
       },
       {
-         "name": "J\u00e1sz-Nagykun-Szolnok County",
+         "name": "Jász-Nagykun-Szolnok County",
          "isoCode": "JN",
          "countryCode": "HU"
       },
       {
-         "name": "Kecskem\u00e9t",
+         "name": "Kecskemét",
          "isoCode": "KM",
          "countryCode": "HU"
       },
       {
-         "name": "Kaposv\u00e1r",
+         "name": "Kaposvár",
          "isoCode": "KV",
          "countryCode": "HU"
       },
@@ -9578,12 +9578,12 @@
          "countryCode": "HU"
       },
       {
-         "name": "N\u00f3gr\u00e1d County",
+         "name": "Nógrád County",
          "isoCode": "NO",
          "countryCode": "HU"
       },
       {
-         "name": "Ny\u00edregyh\u00e1za",
+         "name": "Nyíregyháza",
          "isoCode": "NY",
          "countryCode": "HU"
       },
@@ -9593,7 +9593,7 @@
          "countryCode": "HU"
       },
       {
-         "name": "P\u00e9cs",
+         "name": "Pécs",
          "isoCode": "PS",
          "countryCode": "HU"
       },
@@ -9603,7 +9603,7 @@
          "countryCode": "HU"
       },
       {
-         "name": "Sz\u00e9kesfeh\u00e9rv\u00e1r",
+         "name": "Székesfehérvár",
          "isoCode": "SF",
          "countryCode": "HU"
       },
@@ -9628,22 +9628,22 @@
          "countryCode": "HU"
       },
       {
-         "name": "Szeksz\u00e1rd",
+         "name": "Szekszárd",
          "isoCode": "SS",
          "countryCode": "HU"
       },
       {
-         "name": "Salg\u00f3tarj\u00e1n",
+         "name": "Salgótarján",
          "isoCode": "ST",
          "countryCode": "HU"
       },
       {
-         "name": "Szabolcs-Szatm\u00e1r-Bereg County",
+         "name": "Szabolcs-Szatmár-Bereg County",
          "isoCode": "SZ",
          "countryCode": "HU"
       },
       {
-         "name": "Tatab\u00e1nya",
+         "name": "Tatabánya",
          "isoCode": "TB",
          "countryCode": "HU"
       },
@@ -9658,12 +9658,12 @@
          "countryCode": "HU"
       },
       {
-         "name": "Veszpr\u00e9m County",
+         "name": "Veszprém County",
          "isoCode": "VE",
          "countryCode": "HU"
       },
       {
-         "name": "Veszpr\u00e9m",
+         "name": "Veszprém",
          "isoCode": "VM",
          "countryCode": "HU"
       },
@@ -10283,7 +10283,7 @@
          "countryCode": "IQ"
       },
       {
-         "name": "Al-Q\u0101disiyyah Governorate",
+         "name": "Al-Qādisiyyah Governorate",
          "isoCode": "QA",
          "countryCode": "IQ"
       },
@@ -10529,7 +10529,7 @@
          "countryCode": "IT"
       },
       {
-         "name": "Friuli\u2013Venezia Giulia",
+         "name": "Friuli–Venezia Giulia",
          "isoCode": "36",
          "countryCode": "IT"
       },
@@ -10754,7 +10754,7 @@
          "countryCode": "IT"
       },
       {
-         "name": "Province of Forl\u00ec-Cesena",
+         "name": "Province of Forlì-Cesena",
          "isoCode": "FC",
          "countryCode": "IT"
       },
@@ -11280,7 +11280,7 @@
    ],
    "Japan-JP": [
       {
-         "name": "Hokkaid\u014d Prefecture",
+         "name": "Hokkaidō Prefecture",
          "isoCode": "01",
          "countryCode": "JP"
       },
@@ -11405,17 +11405,17 @@
          "countryCode": "JP"
       },
       {
-         "name": "Ky\u014dto Prefecture",
+         "name": "Kyōto Prefecture",
          "isoCode": "26",
          "countryCode": "JP"
       },
       {
-         "name": "\u014csaka Prefecture",
+         "name": "Ōsaka Prefecture",
          "isoCode": "27",
          "countryCode": "JP"
       },
       {
-         "name": "Hy\u014dgo Prefecture",
+         "name": "Hyōgo Prefecture",
          "isoCode": "28",
          "countryCode": "JP"
       },
@@ -11470,7 +11470,7 @@
          "countryCode": "JP"
       },
       {
-         "name": "K\u014dchi Prefecture",
+         "name": "Kōchi Prefecture",
          "isoCode": "39",
          "countryCode": "JP"
       },
@@ -11495,7 +11495,7 @@
          "countryCode": "JP"
       },
       {
-         "name": "\u014cita Prefecture",
+         "name": "Ōita Prefecture",
          "isoCode": "44",
          "countryCode": "JP"
       },
@@ -11707,7 +11707,7 @@
          "countryCode": "KE"
       },
       {
-         "name": "Taita\u2013Taveta",
+         "name": "Taita–Taveta",
          "isoCode": "39",
          "countryCode": "KE"
       },
@@ -11955,7 +11955,7 @@
          "countryCode": "KM"
       },
       {
-         "name": "Moh\u00e9li",
+         "name": "Mohéli",
          "isoCode": "M",
          "countryCode": "KM"
       }
@@ -12486,7 +12486,7 @@
          "countryCode": "LC"
       },
       {
-         "name": "Soufri\u00e8re Quarter",
+         "name": "Soufrière Quarter",
          "isoCode": "10",
          "countryCode": "LC"
       },
@@ -12856,7 +12856,7 @@
    ],
    "Lithuania-LT": [
       {
-         "name": "Akmen\u0117 District Municipality",
+         "name": "Akmenė District Municipality",
          "isoCode": "01",
          "countryCode": "LT"
       },
@@ -12871,12 +12871,12 @@
          "countryCode": "LT"
       },
       {
-         "name": "Bir\u0161tonas Municipality",
+         "name": "Birštonas Municipality",
          "isoCode": "05",
          "countryCode": "LT"
       },
       {
-         "name": "Bir\u017eai District Municipality",
+         "name": "Biržai District Municipality",
          "isoCode": "06",
          "countryCode": "LT"
       },
@@ -12886,7 +12886,7 @@
          "countryCode": "LT"
       },
       {
-         "name": "Elektr\u0117nai municipality",
+         "name": "Elektrėnai municipality",
          "isoCode": "08",
          "countryCode": "LT"
       },
@@ -12901,7 +12901,7 @@
          "countryCode": "LT"
       },
       {
-         "name": "Joni\u0161kis District Municipality",
+         "name": "Joniškis District Municipality",
          "isoCode": "11",
          "countryCode": "LT"
       },
@@ -12911,7 +12911,7 @@
          "countryCode": "LT"
       },
       {
-         "name": "Kai\u0161iadorys District Municipality",
+         "name": "Kaišiadorys District Municipality",
          "isoCode": "13",
          "countryCode": "LT"
       },
@@ -12931,17 +12931,17 @@
          "countryCode": "LT"
       },
       {
-         "name": "Kazl\u0173 R\u016bda municipality",
+         "name": "Kazlų Rūda municipality",
          "isoCode": "17",
          "countryCode": "LT"
       },
       {
-         "name": "K\u0117dainiai District Municipality",
+         "name": "Kėdainiai District Municipality",
          "isoCode": "18",
          "countryCode": "LT"
       },
       {
-         "name": "Kelm\u0117 District Municipality",
+         "name": "Kelmė District Municipality",
          "isoCode": "19",
          "countryCode": "LT"
       },
@@ -12951,7 +12951,7 @@
          "countryCode": "LT"
       },
       {
-         "name": "Klaip\u0117da District Municipality",
+         "name": "Klaipėda District Municipality",
          "isoCode": "21",
          "countryCode": "LT"
       },
@@ -12961,7 +12961,7 @@
          "countryCode": "LT"
       },
       {
-         "name": "Kupi\u0161kis District Municipality",
+         "name": "Kupiškis District Municipality",
          "isoCode": "23",
          "countryCode": "LT"
       },
@@ -12971,17 +12971,17 @@
          "countryCode": "LT"
       },
       {
-         "name": "Marijampol\u0117 Municipality",
+         "name": "Marijampolė Municipality",
          "isoCode": "25",
          "countryCode": "LT"
       },
       {
-         "name": "Ma\u017eeikiai District Municipality",
+         "name": "Mažeikiai District Municipality",
          "isoCode": "26",
          "countryCode": "LT"
       },
       {
-         "name": "Mol\u0117tai District Municipality",
+         "name": "Molėtai District Municipality",
          "isoCode": "27",
          "countryCode": "LT"
       },
@@ -12991,7 +12991,7 @@
          "countryCode": "LT"
       },
       {
-         "name": "Pag\u0117giai municipality",
+         "name": "Pagėgiai municipality",
          "isoCode": "29",
          "countryCode": "LT"
       },
@@ -13006,12 +13006,12 @@
          "countryCode": "LT"
       },
       {
-         "name": "Panev\u0117\u017eys City Municipality",
+         "name": "Panevėžys City Municipality",
          "isoCode": "32",
          "countryCode": "LT"
       },
       {
-         "name": "Panev\u0117\u017eys District Municipality",
+         "name": "Panevėžys District Municipality",
          "isoCode": "33",
          "countryCode": "LT"
       },
@@ -13021,7 +13021,7 @@
          "countryCode": "LT"
       },
       {
-         "name": "Plung\u0117 District Municipality",
+         "name": "Plungė District Municipality",
          "isoCode": "35",
          "countryCode": "LT"
       },
@@ -13031,7 +13031,7 @@
          "countryCode": "LT"
       },
       {
-         "name": "Radvili\u0161kis District Municipality",
+         "name": "Radviliškis District Municipality",
          "isoCode": "37",
          "countryCode": "LT"
       },
@@ -13046,42 +13046,42 @@
          "countryCode": "LT"
       },
       {
-         "name": "Roki\u0161kis District Municipality",
+         "name": "Rokiškis District Municipality",
          "isoCode": "40",
          "countryCode": "LT"
       },
       {
-         "name": "\u0160akiai District Municipality",
+         "name": "Šakiai District Municipality",
          "isoCode": "41",
          "countryCode": "LT"
       },
       {
-         "name": "\u0160al\u010dininkai District Municipality",
+         "name": "Šalčininkai District Municipality",
          "isoCode": "42",
          "countryCode": "LT"
       },
       {
-         "name": "\u0160iauliai City Municipality",
+         "name": "Šiauliai City Municipality",
          "isoCode": "43",
          "countryCode": "LT"
       },
       {
-         "name": "\u0160iauliai District Municipality",
+         "name": "Šiauliai District Municipality",
          "isoCode": "44",
          "countryCode": "LT"
       },
       {
-         "name": "\u0160ilal\u0117 District Municipality",
+         "name": "Šilalė District Municipality",
          "isoCode": "45",
          "countryCode": "LT"
       },
       {
-         "name": "\u0160ilut\u0117 District Municipality",
+         "name": "Šilutė District Municipality",
          "isoCode": "46",
          "countryCode": "LT"
       },
       {
-         "name": "\u0160irvintos District Municipality",
+         "name": "Širvintos District Municipality",
          "isoCode": "47",
          "countryCode": "LT"
       },
@@ -13091,17 +13091,17 @@
          "countryCode": "LT"
       },
       {
-         "name": "\u0160ven\u010dionys District Municipality",
+         "name": "Švenčionys District Municipality",
          "isoCode": "49",
          "countryCode": "LT"
       },
       {
-         "name": "Taurag\u0117 District Municipality",
+         "name": "Tauragė District Municipality",
          "isoCode": "50",
          "countryCode": "LT"
       },
       {
-         "name": "Tel\u0161iai District Municipality",
+         "name": "Telšiai District Municipality",
          "isoCode": "51",
          "countryCode": "LT"
       },
@@ -13111,7 +13111,7 @@
          "countryCode": "LT"
       },
       {
-         "name": "Ukmerg\u0117 District Municipality",
+         "name": "Ukmergė District Municipality",
          "isoCode": "53",
          "countryCode": "LT"
       },
@@ -13121,12 +13121,12 @@
          "countryCode": "LT"
       },
       {
-         "name": "Var\u0117na District Municipality",
+         "name": "Varėna District Municipality",
          "isoCode": "55",
          "countryCode": "LT"
       },
       {
-         "name": "Vilkavi\u0161kis District Municipality",
+         "name": "Vilkaviškis District Municipality",
          "isoCode": "56",
          "countryCode": "LT"
       },
@@ -13156,7 +13156,7 @@
          "countryCode": "LT"
       },
       {
-         "name": "Klaip\u0117da County",
+         "name": "Klaipėda County",
          "isoCode": "KL",
          "countryCode": "LT"
       },
@@ -13166,27 +13166,27 @@
          "countryCode": "LT"
       },
       {
-         "name": "Marijampol\u0117 County",
+         "name": "Marijampolė County",
          "isoCode": "MR",
          "countryCode": "LT"
       },
       {
-         "name": "Panev\u0117\u017eys County",
+         "name": "Panevėžys County",
          "isoCode": "PN",
          "countryCode": "LT"
       },
       {
-         "name": "\u0160iauliai County",
+         "name": "Šiauliai County",
          "isoCode": "SA",
          "countryCode": "LT"
       },
       {
-         "name": "Taurag\u0117 County",
+         "name": "Tauragė County",
          "isoCode": "TA",
          "countryCode": "LT"
       },
       {
-         "name": "Tel\u0161iai County",
+         "name": "Telšiai County",
          "isoCode": "TE",
          "countryCode": "LT"
       },
@@ -13295,7 +13295,7 @@
          "countryCode": "LV"
       },
       {
-         "name": "Akn\u012bste Municipality",
+         "name": "Aknīste Municipality",
          "isoCode": "004",
          "countryCode": "LV"
       },
@@ -13310,7 +13310,7 @@
          "countryCode": "LV"
       },
       {
-         "name": "Al\u016bksne Municipality",
+         "name": "Alūksne Municipality",
          "isoCode": "007",
          "countryCode": "LV"
       },
@@ -13330,7 +13330,7 @@
          "countryCode": "LV"
       },
       {
-         "name": "Bab\u012bte Municipality",
+         "name": "Babīte Municipality",
          "isoCode": "012",
          "countryCode": "LV"
       },
@@ -13355,12 +13355,12 @@
          "countryCode": "LV"
       },
       {
-         "name": "Bever\u012bna Municipality",
+         "name": "Beverīna Municipality",
          "isoCode": "017",
          "countryCode": "LV"
       },
       {
-         "name": "Broc\u0113ni Municipality",
+         "name": "Brocēni Municipality",
          "isoCode": "018",
          "countryCode": "LV"
       },
@@ -13380,7 +13380,7 @@
          "countryCode": "LV"
       },
       {
-         "name": "C\u0113sis Municipality",
+         "name": "Cēsis Municipality",
          "isoCode": "022",
          "countryCode": "LV"
       },
@@ -13420,7 +13420,7 @@
          "countryCode": "LV"
       },
       {
-         "name": "\u0112rg\u013ci Municipality",
+         "name": "Ērgļi Municipality",
          "isoCode": "030",
          "countryCode": "LV"
       },
@@ -13430,7 +13430,7 @@
          "countryCode": "LV"
       },
       {
-         "name": "Grobi\u0146a Municipality",
+         "name": "Grobiņa Municipality",
          "isoCode": "032",
          "countryCode": "LV"
       },
@@ -13445,17 +13445,17 @@
          "countryCode": "LV"
       },
       {
-         "name": "Ik\u0161\u0137ile Municipality",
+         "name": "Ikšķile Municipality",
          "isoCode": "035",
          "countryCode": "LV"
       },
       {
-         "name": "Il\u016bkste Municipality",
+         "name": "Ilūkste Municipality",
          "isoCode": "036",
          "countryCode": "LV"
       },
       {
-         "name": "In\u010dukalns Municipality",
+         "name": "Inčukalns Municipality",
          "isoCode": "037",
          "countryCode": "LV"
       },
@@ -13480,7 +13480,7 @@
          "countryCode": "LV"
       },
       {
-         "name": "J\u0113kabpils Municipality",
+         "name": "Jēkabpils Municipality",
          "isoCode": "042",
          "countryCode": "LV"
       },
@@ -13490,12 +13490,12 @@
          "countryCode": "LV"
       },
       {
-         "name": "K\u0101rsava Municipality",
+         "name": "Kārsava Municipality",
          "isoCode": "044",
          "countryCode": "LV"
       },
       {
-         "name": "Koc\u0113ni Municipality",
+         "name": "Kocēni Municipality",
          "isoCode": "045",
          "countryCode": "LV"
       },
@@ -13505,7 +13505,7 @@
          "countryCode": "LV"
       },
       {
-         "name": "Kr\u0101slava Municipality",
+         "name": "Krāslava Municipality",
          "isoCode": "047",
          "countryCode": "LV"
       },
@@ -13520,42 +13520,42 @@
          "countryCode": "LV"
       },
       {
-         "name": "Kuld\u012bga Municipality",
+         "name": "Kuldīga Municipality",
          "isoCode": "050",
          "countryCode": "LV"
       },
       {
-         "name": "\u0136egums Municipality",
+         "name": "Ķegums Municipality",
          "isoCode": "051",
          "countryCode": "LV"
       },
       {
-         "name": "\u0136ekava Municipality",
+         "name": "Ķekava Municipality",
          "isoCode": "052",
          "countryCode": "LV"
       },
       {
-         "name": "Lielv\u0101rde Municipality",
+         "name": "Lielvārde Municipality",
          "isoCode": "053",
          "countryCode": "LV"
       },
       {
-         "name": "Limba\u017ei Municipality",
+         "name": "Limbaži Municipality",
          "isoCode": "054",
          "countryCode": "LV"
       },
       {
-         "name": "L\u012bgatne Municipality",
+         "name": "Līgatne Municipality",
          "isoCode": "055",
          "countryCode": "LV"
       },
       {
-         "name": "L\u012bv\u0101ni Municipality",
+         "name": "Līvāni Municipality",
          "isoCode": "056",
          "countryCode": "LV"
       },
       {
-         "name": "Lub\u0101na Municipality",
+         "name": "Lubāna Municipality",
          "isoCode": "057",
          "countryCode": "LV"
       },
@@ -13575,22 +13575,22 @@
          "countryCode": "LV"
       },
       {
-         "name": "M\u0101lpils Municipality",
+         "name": "Mālpils Municipality",
          "isoCode": "061",
          "countryCode": "LV"
       },
       {
-         "name": "M\u0101rupe Municipality",
+         "name": "Mārupe Municipality",
          "isoCode": "062",
          "countryCode": "LV"
       },
       {
-         "name": "M\u0113rsrags Municipality",
+         "name": "Mērsrags Municipality",
          "isoCode": "063",
          "countryCode": "LV"
       },
       {
-         "name": "Nauk\u0161\u0113ni Municipality",
+         "name": "Naukšēni Municipality",
          "isoCode": "064",
          "countryCode": "LV"
       },
@@ -13600,7 +13600,7 @@
          "countryCode": "LV"
       },
       {
-         "name": "N\u012bca Municipality",
+         "name": "Nīca Municipality",
          "isoCode": "066",
          "countryCode": "LV"
       },
@@ -13620,22 +13620,22 @@
          "countryCode": "LV"
       },
       {
-         "name": "P\u0101rgauja Municipality",
+         "name": "Pārgauja Municipality",
          "isoCode": "070",
          "countryCode": "LV"
       },
       {
-         "name": "P\u0101vilosta Municipality",
+         "name": "Pāvilosta Municipality",
          "isoCode": "071",
          "countryCode": "LV"
       },
       {
-         "name": "P\u013cavi\u0146as Municipality",
+         "name": "Pļaviņas Municipality",
          "isoCode": "072",
          "countryCode": "LV"
       },
       {
-         "name": "Prei\u013ci Municipality",
+         "name": "Preiļi Municipality",
          "isoCode": "073",
          "countryCode": "LV"
       },
@@ -13645,7 +13645,7 @@
          "countryCode": "LV"
       },
       {
-         "name": "Prieku\u013ci Municipality",
+         "name": "Priekuļi Municipality",
          "isoCode": "075",
          "countryCode": "LV"
       },
@@ -13655,12 +13655,12 @@
          "countryCode": "LV"
       },
       {
-         "name": "R\u0113zekne Municipality",
+         "name": "Rēzekne Municipality",
          "isoCode": "077",
          "countryCode": "LV"
       },
       {
-         "name": "Riebi\u0146i Municipality",
+         "name": "Riebiņi Municipality",
          "isoCode": "078",
          "countryCode": "LV"
       },
@@ -13670,7 +13670,7 @@
          "countryCode": "LV"
       },
       {
-         "name": "Ropa\u017ei Municipality",
+         "name": "Ropaži Municipality",
          "isoCode": "080",
          "countryCode": "LV"
       },
@@ -13680,17 +13680,17 @@
          "countryCode": "LV"
       },
       {
-         "name": "Rug\u0101ji Municipality",
+         "name": "Rugāji Municipality",
          "isoCode": "082",
          "countryCode": "LV"
       },
       {
-         "name": "Rund\u0101le Municipality",
+         "name": "Rundāle Municipality",
          "isoCode": "083",
          "countryCode": "LV"
       },
       {
-         "name": "R\u016bjiena Municipality",
+         "name": "Rūjiena Municipality",
          "isoCode": "084",
          "countryCode": "LV"
       },
@@ -13700,7 +13700,7 @@
          "countryCode": "LV"
       },
       {
-         "name": "Salacgr\u012bva Municipality",
+         "name": "Salacgrīva Municipality",
          "isoCode": "086",
          "countryCode": "LV"
       },
@@ -13720,7 +13720,7 @@
          "countryCode": "LV"
       },
       {
-         "name": "S\u0113ja Municipality",
+         "name": "Sēja Municipality",
          "isoCode": "090",
          "countryCode": "LV"
       },
@@ -13730,7 +13730,7 @@
          "countryCode": "LV"
       },
       {
-         "name": "Skr\u012bveri Municipality",
+         "name": "Skrīveri Municipality",
          "isoCode": "092",
          "countryCode": "LV"
       },
@@ -13745,12 +13745,12 @@
          "countryCode": "LV"
       },
       {
-         "name": "Stopi\u0146i Municipality",
+         "name": "Stopiņi Municipality",
          "isoCode": "095",
          "countryCode": "LV"
       },
       {
-         "name": "Stren\u010di Municipality",
+         "name": "Strenči Municipality",
          "isoCode": "096",
          "countryCode": "LV"
       },
@@ -13760,7 +13760,7 @@
          "countryCode": "LV"
       },
       {
-         "name": "T\u0113rvete Municipality",
+         "name": "Tērvete Municipality",
          "isoCode": "098",
          "countryCode": "LV"
       },
@@ -13770,7 +13770,7 @@
          "countryCode": "LV"
       },
       {
-         "name": "Vai\u0146ode Municipality",
+         "name": "Vaiņode Municipality",
          "isoCode": "100",
          "countryCode": "LV"
       },
@@ -13780,12 +13780,12 @@
          "countryCode": "LV"
       },
       {
-         "name": "Varak\u013c\u0101ni Municipality",
+         "name": "Varakļāni Municipality",
          "isoCode": "102",
          "countryCode": "LV"
       },
       {
-         "name": "V\u0101rkava Municipality",
+         "name": "Vārkava Municipality",
          "isoCode": "103",
          "countryCode": "LV"
       },
@@ -13805,17 +13805,17 @@
          "countryCode": "LV"
       },
       {
-         "name": "Vies\u012bte Municipality",
+         "name": "Viesīte Municipality",
          "isoCode": "107",
          "countryCode": "LV"
       },
       {
-         "name": "Vi\u013caka Municipality",
+         "name": "Viļaka Municipality",
          "isoCode": "108",
          "countryCode": "LV"
       },
       {
-         "name": "Vi\u013c\u0101ni Municipality",
+         "name": "Viļāni Municipality",
          "isoCode": "109",
          "countryCode": "LV"
       },
@@ -13835,22 +13835,22 @@
          "countryCode": "LV"
       },
       {
-         "name": "J\u0113kabpils",
+         "name": "Jēkabpils",
          "isoCode": "JKB",
          "countryCode": "LV"
       },
       {
-         "name": "J\u016brmala",
+         "name": "Jūrmala",
          "isoCode": "JUR",
          "countryCode": "LV"
       },
       {
-         "name": "Liep\u0101ja",
+         "name": "Liepāja",
          "isoCode": "LPX",
          "countryCode": "LV"
       },
       {
-         "name": "R\u0113zekne",
+         "name": "Rēzekne",
          "isoCode": "REZ",
          "countryCode": "LV"
       },
@@ -13979,7 +13979,7 @@
    ],
    "Morocco-MA": [
       {
-         "name": "Tanger-T\u00e9touan-Al Hoce\u00efma",
+         "name": "Tanger-Tétouan-Al Hoceïma",
          "isoCode": "01",
          "countryCode": "MA"
       },
@@ -13989,17 +13989,17 @@
          "countryCode": "MA"
       },
       {
-         "name": "F\u00e8s-Mekn\u00e8s",
+         "name": "Fès-Meknès",
          "isoCode": "03",
          "countryCode": "MA"
       },
       {
-         "name": "Rabat-Sal\u00e9-K\u00e9nitra",
+         "name": "Rabat-Salé-Kénitra",
          "isoCode": "04",
          "countryCode": "MA"
       },
       {
-         "name": "B\u00e9ni Mellal-Kh\u00e9nifra",
+         "name": "Béni Mellal-Khénifra",
          "isoCode": "05",
          "countryCode": "MA"
       },
@@ -14014,7 +14014,7 @@
          "countryCode": "MA"
       },
       {
-         "name": "Dr\u00e2a-Tafilalet",
+         "name": "Drâa-Tafilalet",
          "isoCode": "08",
          "countryCode": "MA"
       },
@@ -14029,7 +14029,7 @@
          "countryCode": "MA"
       },
       {
-         "name": "La\u00e2youne-Sakia El Hamra (EH-partial)",
+         "name": "Laâyoune-Sakia El Hamra (EH-partial)",
          "isoCode": "11",
          "countryCode": "MA"
       },
@@ -14059,7 +14059,7 @@
          "countryCode": "MA"
       },
       {
-         "name": "B\u00e9ni Mellal",
+         "name": "Béni Mellal",
          "isoCode": "BEM",
          "countryCode": "MA"
       },
@@ -14134,7 +14134,7 @@
          "countryCode": "MA"
       },
       {
-         "name": "F\u00e8s",
+         "name": "Fès",
          "isoCode": "FES",
          "countryCode": "MA"
       },
@@ -14169,7 +14169,7 @@
          "countryCode": "MA"
       },
       {
-         "name": "Al Hoce\u00efma",
+         "name": "Al Hoceïma",
          "isoCode": "HOC",
          "countryCode": "MA"
       },
@@ -14194,22 +14194,22 @@
          "countryCode": "MA"
       },
       {
-         "name": "K\u00e9nitra",
+         "name": "Kénitra",
          "isoCode": "KEN",
          "countryCode": "MA"
       },
       {
-         "name": "El Kel\u00e2a des Sraghna",
+         "name": "El Kelâa des Sraghna",
          "isoCode": "KES",
          "countryCode": "MA"
       },
       {
-         "name": "Kh\u00e9misset",
+         "name": "Khémisset",
          "isoCode": "KHE",
          "countryCode": "MA"
       },
       {
-         "name": "Kh\u00e9nifra",
+         "name": "Khénifra",
          "isoCode": "KHN",
          "countryCode": "MA"
       },
@@ -14219,7 +14219,7 @@
          "countryCode": "MA"
       },
       {
-         "name": "La\u00e2youne (EH)",
+         "name": "Laâyoune (EH)",
          "isoCode": "LAA",
          "countryCode": "MA"
       },
@@ -14234,17 +14234,17 @@
          "countryCode": "MA"
       },
       {
-         "name": "M\u2019diq-Fnideq",
+         "name": "M’diq-Fnideq",
          "isoCode": "MDF",
          "countryCode": "MA"
       },
       {
-         "name": "M\u00e9diouna",
+         "name": "Médiouna",
          "isoCode": "MED",
          "countryCode": "MA"
       },
       {
-         "name": "Mekn\u00e8s",
+         "name": "Meknès",
          "isoCode": "MEK",
          "countryCode": "MA"
       },
@@ -14309,7 +14309,7 @@
          "countryCode": "MA"
       },
       {
-         "name": "Sal\u00e9",
+         "name": "Salé",
          "isoCode": "SAL",
          "countryCode": "MA"
       },
@@ -14344,7 +14344,7 @@
          "countryCode": "MA"
       },
       {
-         "name": "Skhirate-T\u00e9mara",
+         "name": "Skhirate-Témara",
          "isoCode": "SKH",
          "countryCode": "MA"
       },
@@ -14379,7 +14379,7 @@
          "countryCode": "MA"
       },
       {
-         "name": "T\u00e9touan",
+         "name": "Tétouan",
          "isoCode": "TET",
          "countryCode": "MA"
       },
@@ -14438,7 +14438,7 @@
          "countryCode": "MD"
       },
       {
-         "name": "B\u0103l\u021bi Municipality",
+         "name": "Bălți Municipality",
          "isoCode": "BA",
          "countryCode": "MD"
       },
@@ -14463,12 +14463,12 @@
          "countryCode": "MD"
       },
       {
-         "name": "C\u0103l\u0103ra\u0219i District",
+         "name": "Călărași District",
          "isoCode": "CL",
          "countryCode": "MD"
       },
       {
-         "name": "Cimi\u0219lia District",
+         "name": "Cimișlia District",
          "isoCode": "CM",
          "countryCode": "MD"
       },
@@ -14478,7 +14478,7 @@
          "countryCode": "MD"
       },
       {
-         "name": "C\u0103u\u0219eni District",
+         "name": "Căușeni District",
          "isoCode": "CS",
          "countryCode": "MD"
       },
@@ -14488,12 +14488,12 @@
          "countryCode": "MD"
       },
       {
-         "name": "Chi\u0219in\u0103u Municipality",
+         "name": "Chișinău Municipality",
          "isoCode": "CU",
          "countryCode": "MD"
       },
       {
-         "name": "Dondu\u0219eni District",
+         "name": "Dondușeni District",
          "isoCode": "DO",
          "countryCode": "MD"
       },
@@ -14503,22 +14503,22 @@
          "countryCode": "MD"
       },
       {
-         "name": "Dub\u0103sari District",
+         "name": "Dubăsari District",
          "isoCode": "DU",
          "countryCode": "MD"
       },
       {
-         "name": "Edine\u021b District",
+         "name": "Edineț District",
          "isoCode": "ED",
          "countryCode": "MD"
       },
       {
-         "name": "F\u0103le\u0219ti District",
+         "name": "Fălești District",
          "isoCode": "FA",
          "countryCode": "MD"
       },
       {
-         "name": "Flore\u0219ti District",
+         "name": "Florești District",
          "isoCode": "FL",
          "countryCode": "MD"
       },
@@ -14533,7 +14533,7 @@
          "countryCode": "MD"
       },
       {
-         "name": "H\u00eence\u0219ti District",
+         "name": "Hîncești District",
          "isoCode": "HI",
          "countryCode": "MD"
       },
@@ -14548,7 +14548,7 @@
          "countryCode": "MD"
       },
       {
-         "name": "Ocni\u021ba District",
+         "name": "Ocnița District",
          "isoCode": "OC",
          "countryCode": "MD"
       },
@@ -14563,17 +14563,17 @@
          "countryCode": "MD"
       },
       {
-         "name": "R\u00ee\u0219cani District",
+         "name": "Rîșcani District",
          "isoCode": "RI",
          "countryCode": "MD"
       },
       {
-         "name": "\u0218old\u0103ne\u0219ti District",
+         "name": "Șoldănești District",
          "isoCode": "SD",
          "countryCode": "MD"
       },
       {
-         "name": "S\u00eengerei District",
+         "name": "Sîngerei District",
          "isoCode": "SI",
          "countryCode": "MD"
       },
@@ -14588,12 +14588,12 @@
          "countryCode": "MD"
       },
       {
-         "name": "Str\u0103\u0219eni District",
+         "name": "Strășeni District",
          "isoCode": "ST",
          "countryCode": "MD"
       },
       {
-         "name": "\u0218tefan Vod\u0103 District",
+         "name": "Ștefan Vodă District",
          "isoCode": "SV",
          "countryCode": "MD"
       },
@@ -14603,7 +14603,7 @@
          "countryCode": "MD"
       },
       {
-         "name": "Telene\u0219ti District",
+         "name": "Telenești District",
          "isoCode": "TE",
          "countryCode": "MD"
       },
@@ -14650,7 +14650,7 @@
          "countryCode": "ME"
       },
       {
-         "name": "Kola\u0161in Municipality",
+         "name": "Kolašin Municipality",
          "isoCode": "09",
          "countryCode": "ME"
       },
@@ -14665,7 +14665,7 @@
          "countryCode": "ME"
       },
       {
-         "name": "Nik\u0161i\u0107 Municipality",
+         "name": "Nikšić Municipality",
          "isoCode": "12",
          "countryCode": "ME"
       },
@@ -14680,7 +14680,7 @@
          "countryCode": "ME"
       },
       {
-         "name": "Plu\u017eine Municipality",
+         "name": "Plužine Municipality",
          "isoCode": "15",
          "countryCode": "ME"
       },
@@ -14690,12 +14690,12 @@
          "countryCode": "ME"
       },
       {
-         "name": "Ro\u017eaje Municipality",
+         "name": "Rožaje Municipality",
          "isoCode": "17",
          "countryCode": "ME"
       },
       {
-         "name": "\u0160avnik Municipality",
+         "name": "Šavnik Municipality",
          "isoCode": "18",
          "countryCode": "ME"
       },
@@ -14710,7 +14710,7 @@
          "countryCode": "ME"
       },
       {
-         "name": "\u017dabljak Municipality",
+         "name": "Žabljak Municipality",
          "isoCode": "21",
          "countryCode": "ME"
       },
@@ -14776,7 +14776,7 @@
          "countryCode": "MK"
       },
       {
-         "name": "Ara\u010dinovo Municipality",
+         "name": "Aračinovo Municipality",
          "isoCode": "02",
          "countryCode": "MK"
       },
@@ -14826,7 +14826,7 @@
          "countryCode": "MK"
       },
       {
-         "name": "Vev\u010dani Municipality",
+         "name": "Vevčani Municipality",
          "isoCode": "12",
          "countryCode": "MK"
       },
@@ -14841,12 +14841,12 @@
          "countryCode": "MK"
       },
       {
-         "name": "Vrane\u0161tica Municipality",
+         "name": "Vraneštica Municipality",
          "isoCode": "15",
          "countryCode": "MK"
       },
       {
-         "name": "Vrap\u010di\u0161te Municipality",
+         "name": "Vrapčište Municipality",
          "isoCode": "16",
          "countryCode": "MK"
       },
@@ -14876,7 +14876,7 @@
          "countryCode": "MK"
       },
       {
-         "name": "Del\u010devo Municipality",
+         "name": "Delčevo Municipality",
          "isoCode": "23",
          "countryCode": "MK"
       },
@@ -14906,12 +14906,12 @@
          "countryCode": "MK"
       },
       {
-         "name": "Gjor\u010de Petrov Municipality",
+         "name": "Gjorče Petrov Municipality",
          "isoCode": "29",
          "countryCode": "MK"
       },
       {
-         "name": "\u017delino Municipality",
+         "name": "Želino Municipality",
          "isoCode": "30",
          "countryCode": "MK"
       },
@@ -14951,7 +14951,7 @@
          "countryCode": "MK"
       },
       {
-         "name": "Karpo\u0161 Municipality",
+         "name": "Karpoš Municipality",
          "isoCode": "38",
          "countryCode": "MK"
       },
@@ -14961,17 +14961,17 @@
          "countryCode": "MK"
       },
       {
-         "name": "Ki\u010devo Municipality",
+         "name": "Kičevo Municipality",
          "isoCode": "40",
          "countryCode": "MK"
       },
       {
-         "name": "Kon\u010de Municipality",
+         "name": "Konče Municipality",
          "isoCode": "41",
          "countryCode": "MK"
       },
       {
-         "name": "Ko\u010dani Municipality",
+         "name": "Kočani Municipality",
          "isoCode": "42",
          "countryCode": "MK"
       },
@@ -14986,12 +14986,12 @@
          "countryCode": "MK"
       },
       {
-         "name": "Krivoga\u0161tani Municipality",
+         "name": "Krivogaštani Municipality",
          "isoCode": "45",
          "countryCode": "MK"
       },
       {
-         "name": "Kru\u0161evo Municipality",
+         "name": "Kruševo Municipality",
          "isoCode": "46",
          "countryCode": "MK"
       },
@@ -15011,7 +15011,7 @@
          "countryCode": "MK"
       },
       {
-         "name": "Mavrovo and Rostu\u0161a Municipality",
+         "name": "Mavrovo and Rostuša Municipality",
          "isoCode": "50",
          "countryCode": "MK"
       },
@@ -15061,7 +15061,7 @@
          "countryCode": "MK"
       },
       {
-         "name": "Peh\u010devo Municipality",
+         "name": "Pehčevo Municipality",
          "isoCode": "60",
          "countryCode": "MK"
       },
@@ -15076,12 +15076,12 @@
          "countryCode": "MK"
       },
       {
-         "name": "Probi\u0161tip Municipality",
+         "name": "Probištip Municipality",
          "isoCode": "63",
          "countryCode": "MK"
       },
       {
-         "name": "Radovi\u0161 Municipality",
+         "name": "Radoviš Municipality",
          "isoCode": "64",
          "countryCode": "MK"
       },
@@ -15111,12 +15111,12 @@
          "countryCode": "MK"
       },
       {
-         "name": "Sopi\u0161te Municipality",
+         "name": "Sopište Municipality",
          "isoCode": "70",
          "countryCode": "MK"
       },
       {
-         "name": "Staro Nagori\u010dane Municipality",
+         "name": "Staro Nagoričane Municipality",
          "isoCode": "71",
          "countryCode": "MK"
       },
@@ -15131,7 +15131,7 @@
          "countryCode": "MK"
       },
       {
-         "name": "Studeni\u010dani Municipality",
+         "name": "Studeničani Municipality",
          "isoCode": "74",
          "countryCode": "MK"
       },
@@ -15151,37 +15151,37 @@
          "countryCode": "MK"
       },
       {
-         "name": "Centar \u017dupa Municipality",
+         "name": "Centar Župa Municipality",
          "isoCode": "78",
          "countryCode": "MK"
       },
       {
-         "name": "\u010cair Municipality",
+         "name": "Čair Municipality",
          "isoCode": "79",
          "countryCode": "MK"
       },
       {
-         "name": "\u010ca\u0161ka Municipality",
+         "name": "Čaška Municipality",
          "isoCode": "80",
          "countryCode": "MK"
       },
       {
-         "name": "\u010ce\u0161inovo-Oble\u0161evo Municipality",
+         "name": "Češinovo-Obleševo Municipality",
          "isoCode": "81",
          "countryCode": "MK"
       },
       {
-         "name": "\u010cu\u010der-Sandevo Municipality",
+         "name": "Čučer-Sandevo Municipality",
          "isoCode": "82",
          "countryCode": "MK"
       },
       {
-         "name": "\u0160tip Municipality",
+         "name": "Štip Municipality",
          "isoCode": "83",
          "countryCode": "MK"
       },
       {
-         "name": "\u0160uto Orizari Municipality",
+         "name": "Šuto Orizari Municipality",
          "isoCode": "84",
          "countryCode": "MK"
       },
@@ -15198,7 +15198,7 @@
          "countryCode": "ML"
       },
       {
-         "name": "Taoud\u00e9nit Region",
+         "name": "Taoudénit Region",
          "isoCode": "10",
          "countryCode": "ML"
       },
@@ -15213,7 +15213,7 @@
          "countryCode": "ML"
       },
       {
-         "name": "S\u00e9gou Region",
+         "name": "Ségou Region",
          "isoCode": "4",
          "countryCode": "ML"
       },
@@ -15238,7 +15238,7 @@
          "countryCode": "ML"
       },
       {
-         "name": "M\u00e9naka Region",
+         "name": "Ménaka Region",
          "isoCode": "9",
          "countryCode": "ML"
       },
@@ -15342,7 +15342,7 @@
          "countryCode": "MN"
       },
       {
-         "name": "Kh\u00f6vsg\u00f6l Province",
+         "name": "Khövsgöl Province",
          "isoCode": "041",
          "countryCode": "MN"
       },
@@ -15357,7 +15357,7 @@
          "countryCode": "MN"
       },
       {
-         "name": "T\u00f6v Province",
+         "name": "Töv Province",
          "isoCode": "047",
          "countryCode": "MN"
       },
@@ -15367,17 +15367,17 @@
          "countryCode": "MN"
       },
       {
-         "name": "S\u00fckhbaatar Province",
+         "name": "Sükhbaatar Province",
          "isoCode": "051",
          "countryCode": "MN"
       },
       {
-         "name": "\u00d6mn\u00f6govi Province",
+         "name": "Ömnögovi Province",
          "isoCode": "053",
          "countryCode": "MN"
       },
       {
-         "name": "\u00d6v\u00f6rkhangai Province",
+         "name": "Övörkhangai Province",
          "isoCode": "055",
          "countryCode": "MN"
       },
@@ -15402,7 +15402,7 @@
          "countryCode": "MN"
       },
       {
-         "name": "Govis\u00fcmber Province",
+         "name": "Govisümber Province",
          "isoCode": "064",
          "countryCode": "MN"
       },
@@ -15422,7 +15422,7 @@
          "countryCode": "MN"
       },
       {
-         "name": "Bayan-\u00d6lgii Province",
+         "name": "Bayan-Ölgii Province",
          "isoCode": "071",
          "countryCode": "MN"
       },
@@ -15531,7 +15531,7 @@
          "countryCode": "MT"
       },
       {
-         "name": "Bir\u017cebbu\u0121a",
+         "name": "Birżebbuġa",
          "isoCode": "05",
          "countryCode": "MT"
       },
@@ -15566,37 +15566,37 @@
          "countryCode": "MT"
       },
       {
-         "name": "G\u017cira",
+         "name": "Gżira",
          "isoCode": "12",
          "countryCode": "MT"
       },
       {
-         "name": "G\u0127ajnsielem",
+         "name": "Għajnsielem",
          "isoCode": "13",
          "countryCode": "MT"
       },
       {
-         "name": "G\u0127arb",
+         "name": "Għarb",
          "isoCode": "14",
          "countryCode": "MT"
       },
       {
-         "name": "G\u0127arg\u0127ur",
+         "name": "Għargħur",
          "isoCode": "15",
          "countryCode": "MT"
       },
       {
-         "name": "G\u0127asri",
+         "name": "Għasri",
          "isoCode": "16",
          "countryCode": "MT"
       },
       {
-         "name": "G\u0127axaq",
+         "name": "Għaxaq",
          "isoCode": "17",
          "countryCode": "MT"
       },
       {
-         "name": "\u0126amrun",
+         "name": "Ħamrun",
          "isoCode": "18",
          "countryCode": "MT"
       },
@@ -15616,7 +15616,7 @@
          "countryCode": "MT"
       },
       {
-         "name": "Ker\u010bem",
+         "name": "Kerċem",
          "isoCode": "22",
          "countryCode": "MT"
       },
@@ -15656,12 +15656,12 @@
          "countryCode": "MT"
       },
       {
-         "name": "Mellie\u0127a",
+         "name": "Mellieħa",
          "isoCode": "30",
          "countryCode": "MT"
       },
       {
-         "name": "M\u0121arr",
+         "name": "Mġarr",
          "isoCode": "31",
          "countryCode": "MT"
       },
@@ -15711,7 +15711,7 @@
          "countryCode": "MT"
       },
       {
-         "name": "Piet\u00e0",
+         "name": "Pietà",
          "isoCode": "41",
          "countryCode": "MT"
       },
@@ -15746,7 +15746,7 @@
          "countryCode": "MT"
       },
       {
-         "name": "San \u0120wann",
+         "name": "San Ġwann",
          "isoCode": "49",
          "countryCode": "MT"
       },
@@ -15766,7 +15766,7 @@
          "countryCode": "MT"
       },
       {
-         "name": "Santa Lu\u010bija",
+         "name": "Santa Luċija",
          "isoCode": "53",
          "countryCode": "MT"
       },
@@ -15776,7 +15776,7 @@
          "countryCode": "MT"
       },
       {
-         "name": "Si\u0121\u0121iewi",
+         "name": "Siġġiewi",
          "isoCode": "55",
          "countryCode": "MT"
       },
@@ -15806,7 +15806,7 @@
          "countryCode": "MT"
       },
       {
-         "name": "Xag\u0127ra",
+         "name": "Xagħra",
          "isoCode": "61",
          "countryCode": "MT"
       },
@@ -15816,44 +15816,44 @@
          "countryCode": "MT"
       },
       {
-         "name": "Xg\u0127ajra",
+         "name": "Xgħajra",
          "isoCode": "63",
          "countryCode": "MT"
       },
       {
-         "name": "\u017babbar",
+         "name": "Żabbar",
          "isoCode": "64",
          "countryCode": "MT"
       },
       {
-         "name": "\u017bebbu\u0121 Gozo",
+         "name": "Żebbuġ Gozo",
          "isoCode": "65",
          "countryCode": "MT"
       },
       {
-         "name": "\u017bebbu\u0121 Malta",
+         "name": "Żebbuġ Malta",
          "isoCode": "66",
          "countryCode": "MT"
       },
       {
-         "name": "\u017bejtun",
+         "name": "Żejtun",
          "isoCode": "67",
          "countryCode": "MT"
       },
       {
-         "name": "\u017burrieq",
+         "name": "Żurrieq",
          "isoCode": "68",
          "countryCode": "MT"
       }
    ],
    "Mauritius-MU": [
       {
-         "name": "Agal\u00e9ga",
+         "name": "Agaléga",
          "isoCode": "AG",
          "countryCode": "MU"
       },
       {
-         "name": "Rivi\u00e8re Noire District",
+         "name": "Rivière Noire District",
          "isoCode": "BL",
          "countryCode": "MU"
       },
@@ -15918,7 +15918,7 @@
          "countryCode": "MU"
       },
       {
-         "name": "Rivi\u00e8re du Rempart District",
+         "name": "Rivière du Rempart District",
          "isoCode": "RR",
          "countryCode": "MU"
       },
@@ -16035,7 +16035,7 @@
          "countryCode": "MV"
       },
       {
-         "name": "Mal\u00e9",
+         "name": "Malé",
          "isoCode": "MLE",
          "countryCode": "MV"
       },
@@ -16239,7 +16239,7 @@
          "countryCode": "MX"
       },
       {
-         "name": "Ciudad de M\u00e9xico",
+         "name": "Ciudad de México",
          "isoCode": "CDMX",
          "countryCode": "MX"
       },
@@ -16289,12 +16289,12 @@
          "countryCode": "MX"
       },
       {
-         "name": "Estado de M\u00e9xico",
+         "name": "Estado de México",
          "isoCode": "MEX",
          "countryCode": "MX"
       },
       {
-         "name": "Michoac\u00e1n de Ocampo",
+         "name": "Michoacán de Ocampo",
          "isoCode": "MIC",
          "countryCode": "MX"
       },
@@ -16309,7 +16309,7 @@
          "countryCode": "MX"
       },
       {
-         "name": "Nuevo Le\u00f3n",
+         "name": "Nuevo León",
          "isoCode": "NLE",
          "countryCode": "MX"
       },
@@ -16324,7 +16324,7 @@
          "countryCode": "MX"
       },
       {
-         "name": "Quer\u00e9taro",
+         "name": "Querétaro",
          "isoCode": "QUE",
          "countryCode": "MX"
       },
@@ -16339,7 +16339,7 @@
          "countryCode": "MX"
       },
       {
-         "name": "San Luis Potos\u00ed",
+         "name": "San Luis Potosí",
          "isoCode": "SLP",
          "countryCode": "MX"
       },
@@ -16369,7 +16369,7 @@
          "countryCode": "MX"
       },
       {
-         "name": "Yucat\u00e1n",
+         "name": "Yucatán",
          "isoCode": "YUC",
          "countryCode": "MX"
       },
@@ -16617,7 +16617,7 @@
          "countryCode": "NE"
       },
       {
-         "name": "Tillab\u00e9ri Region",
+         "name": "Tillabéri Region",
          "isoCode": "6",
          "countryCode": "NE"
       },
@@ -16846,7 +16846,7 @@
          "countryCode": "NI"
       },
       {
-         "name": "Estel\u00ed",
+         "name": "Estelí",
          "isoCode": "ES",
          "countryCode": "NI"
       },
@@ -16861,7 +16861,7 @@
          "countryCode": "NI"
       },
       {
-         "name": "Le\u00f3n",
+         "name": "León",
          "isoCode": "LE",
          "countryCode": "NI"
       },
@@ -16896,7 +16896,7 @@
          "countryCode": "NI"
       },
       {
-         "name": "R\u00edo San Juan",
+         "name": "Río San Juan",
          "isoCode": "SJ",
          "countryCode": "NI"
       }
@@ -16980,7 +16980,7 @@
    ],
    "Norway-NO": [
       {
-         "name": "\u00d8stfold",
+         "name": "Østfold",
          "isoCode": "01",
          "countryCode": "NO"
       },
@@ -17040,17 +17040,17 @@
          "countryCode": "NO"
       },
       {
-         "name": "M\u00f8re og Romsdal",
+         "name": "Møre og Romsdal",
          "isoCode": "15",
          "countryCode": "NO"
       },
       {
-         "name": "S\u00f8r-Tr\u00f8ndelag",
+         "name": "Sør-Trøndelag",
          "isoCode": "16",
          "countryCode": "NO"
       },
       {
-         "name": "Nord-Tr\u00f8ndelag",
+         "name": "Nord-Trøndelag",
          "isoCode": "17",
          "countryCode": "NO"
       },
@@ -17080,7 +17080,7 @@
          "countryCode": "NO"
       },
       {
-         "name": "Tr\u00f8ndelag",
+         "name": "Trøndelag",
          "isoCode": "50",
          "countryCode": "NO"
       }
@@ -17415,27 +17415,27 @@
          "countryCode": "PA"
       },
       {
-         "name": "Panam\u00e1 Oeste Province",
+         "name": "Panamá Oeste Province",
          "isoCode": "10",
          "countryCode": "PA"
       },
       {
-         "name": "Cocl\u00e9 Province",
+         "name": "Coclé Province",
          "isoCode": "2",
          "countryCode": "PA"
       },
       {
-         "name": "Col\u00f3n Province",
+         "name": "Colón Province",
          "isoCode": "3",
          "countryCode": "PA"
       },
       {
-         "name": "Chiriqu\u00ed Province",
+         "name": "Chiriquí Province",
          "isoCode": "4",
          "countryCode": "PA"
       },
       {
-         "name": "Dari\u00e9n Province",
+         "name": "Darién Province",
          "isoCode": "5",
          "countryCode": "PA"
       },
@@ -17450,7 +17450,7 @@
          "countryCode": "PA"
       },
       {
-         "name": "Panam\u00e1 Province",
+         "name": "Panamá Province",
          "isoCode": "8",
          "countryCode": "PA"
       },
@@ -17460,7 +17460,7 @@
          "countryCode": "PA"
       },
       {
-         "name": "Ember\u00e1-Wounaan Comarca",
+         "name": "Emberá-Wounaan Comarca",
          "isoCode": "EM",
          "countryCode": "PA"
       },
@@ -17470,7 +17470,7 @@
          "countryCode": "PA"
       },
       {
-         "name": "Ng\u00f6be-Bugl\u00e9 Comarca",
+         "name": "Ngöbe-Buglé Comarca",
          "isoCode": "NB",
          "countryCode": "PA"
       }
@@ -17482,12 +17482,12 @@
          "countryCode": "PE"
       },
       {
-         "name": "\u00c1ncash",
+         "name": "Áncash",
          "isoCode": "ANC",
          "countryCode": "PE"
       },
       {
-         "name": "Apur\u00edmac",
+         "name": "Apurímac",
          "isoCode": "APU",
          "countryCode": "PE"
       },
@@ -17532,7 +17532,7 @@
          "countryCode": "PE"
       },
       {
-         "name": "Jun\u00edn",
+         "name": "Junín",
          "isoCode": "JUN",
          "countryCode": "PE"
       },
@@ -17582,7 +17582,7 @@
          "countryCode": "PE"
       },
       {
-         "name": "San Mart\u00edn",
+         "name": "San Martín",
          "isoCode": "SAM",
          "countryCode": "PE"
       },
@@ -18255,7 +18255,7 @@
          "countryCode": "PL"
       },
       {
-         "name": "\u0141\u00f3d\u017a Voivodeship",
+         "name": "Łódź Voivodeship",
          "isoCode": "LD",
          "countryCode": "PL"
       },
@@ -18295,7 +18295,7 @@
          "countryCode": "PL"
       },
       {
-         "name": "\u015awi\u0119tokrzyskie Voivodeship",
+         "name": "Świętokrzyskie Voivodeship",
          "isoCode": "SK",
          "countryCode": "PL"
       },
@@ -18337,7 +18337,7 @@
          "countryCode": "PT"
       },
       {
-         "name": "Bragan\u00e7a",
+         "name": "Bragança",
          "isoCode": "04",
          "countryCode": "PT"
       },
@@ -18352,7 +18352,7 @@
          "countryCode": "PT"
       },
       {
-         "name": "\u00c9vora",
+         "name": "Évora",
          "isoCode": "07",
          "countryCode": "PT"
       },
@@ -18387,12 +18387,12 @@
          "countryCode": "PT"
       },
       {
-         "name": "Santar\u00e9m",
+         "name": "Santarém",
          "isoCode": "14",
          "countryCode": "PT"
       },
       {
-         "name": "Set\u00fabal",
+         "name": "Setúbal",
          "isoCode": "15",
          "countryCode": "PT"
       },
@@ -18412,7 +18412,7 @@
          "countryCode": "PT"
       },
       {
-         "name": "A\u00e7ores",
+         "name": "Açores",
          "isoCode": "20",
          "countryCode": "PT"
       },
@@ -18506,12 +18506,12 @@
    ],
    "Paraguay-PY": [
       {
-         "name": "Concepci\u00f3n Department",
+         "name": "Concepción Department",
          "isoCode": "1",
          "countryCode": "PY"
       },
       {
-         "name": "Alto Paran\u00e1 Department",
+         "name": "Alto Paraná Department",
          "isoCode": "10",
          "countryCode": "PY"
       },
@@ -18521,7 +18521,7 @@
          "countryCode": "PY"
       },
       {
-         "name": "\u00d1eembuc\u00fa Department",
+         "name": "Ñeembucú Department",
          "isoCode": "12",
          "countryCode": "PY"
       },
@@ -18531,7 +18531,7 @@
          "countryCode": "PY"
       },
       {
-         "name": "Canindey\u00fa",
+         "name": "Canindeyú",
          "isoCode": "14",
          "countryCode": "PY"
       },
@@ -18546,7 +18546,7 @@
          "countryCode": "PY"
       },
       {
-         "name": "Boquer\u00f3n Department",
+         "name": "Boquerón Department",
          "isoCode": "19",
          "countryCode": "PY"
       },
@@ -18561,22 +18561,22 @@
          "countryCode": "PY"
       },
       {
-         "name": "Guair\u00e1 Department",
+         "name": "Guairá Department",
          "isoCode": "4",
          "countryCode": "PY"
       },
       {
-         "name": "Caaguaz\u00fa",
+         "name": "Caaguazú",
          "isoCode": "5",
          "countryCode": "PY"
       },
       {
-         "name": "Caazap\u00e1",
+         "name": "Caazapá",
          "isoCode": "6",
          "countryCode": "PY"
       },
       {
-         "name": "Itap\u00faa",
+         "name": "Itapúa",
          "isoCode": "7",
          "countryCode": "PY"
       },
@@ -18586,7 +18586,7 @@
          "countryCode": "PY"
       },
       {
-         "name": "Paraguar\u00ed Department",
+         "name": "Paraguarí Department",
          "isoCode": "9",
          "countryCode": "PY"
       }
@@ -18655,7 +18655,7 @@
          "countryCode": "RO"
       },
       {
-         "name": "Bac\u0103u County",
+         "name": "Bacău County",
          "isoCode": "BC",
          "countryCode": "RO"
       },
@@ -18665,7 +18665,7 @@
          "countryCode": "RO"
       },
       {
-         "name": "Bistri\u021ba-N\u0103s\u0103ud County",
+         "name": "Bistrița-Năsăud County",
          "isoCode": "BN",
          "countryCode": "RO"
       },
@@ -18675,17 +18675,17 @@
          "countryCode": "RO"
       },
       {
-         "name": "Boto\u0219ani County",
+         "name": "Botoșani County",
          "isoCode": "BT",
          "countryCode": "RO"
       },
       {
-         "name": "Bra\u0219ov County",
+         "name": "Brașov County",
          "isoCode": "BV",
          "countryCode": "RO"
       },
       {
-         "name": "Buz\u0103u County",
+         "name": "Buzău County",
          "isoCode": "BZ",
          "countryCode": "RO"
       },
@@ -18695,17 +18695,17 @@
          "countryCode": "RO"
       },
       {
-         "name": "C\u0103l\u0103ra\u0219i County",
+         "name": "Călărași County",
          "isoCode": "CL",
          "countryCode": "RO"
       },
       {
-         "name": "Cara\u0219-Severin County",
+         "name": "Caraș-Severin County",
          "isoCode": "CS",
          "countryCode": "RO"
       },
       {
-         "name": "Constan\u021ba County",
+         "name": "Constanța County",
          "isoCode": "CT",
          "countryCode": "RO"
       },
@@ -18715,7 +18715,7 @@
          "countryCode": "RO"
       },
       {
-         "name": "D\u00e2mbovi\u021ba County",
+         "name": "Dâmbovița County",
          "isoCode": "DB",
          "countryCode": "RO"
       },
@@ -18730,7 +18730,7 @@
          "countryCode": "RO"
       },
       {
-         "name": "Gala\u021bi County",
+         "name": "Galați County",
          "isoCode": "GL",
          "countryCode": "RO"
       },
@@ -18755,32 +18755,32 @@
          "countryCode": "RO"
       },
       {
-         "name": "Ialomi\u021ba County",
+         "name": "Ialomița County",
          "isoCode": "IL",
          "countryCode": "RO"
       },
       {
-         "name": "Ia\u0219i County",
+         "name": "Iași County",
          "isoCode": "IS",
          "countryCode": "RO"
       },
       {
-         "name": "Mehedin\u021bi County",
+         "name": "Mehedinți County",
          "isoCode": "MH",
          "countryCode": "RO"
       },
       {
-         "name": "Maramure\u0219 County",
+         "name": "Maramureș County",
          "isoCode": "MM",
          "countryCode": "RO"
       },
       {
-         "name": "Mure\u0219 County",
+         "name": "Mureș County",
          "isoCode": "MS",
          "countryCode": "RO"
       },
       {
-         "name": "Neam\u021b County",
+         "name": "Neamț County",
          "isoCode": "NT",
          "countryCode": "RO"
       },
@@ -18800,7 +18800,7 @@
          "countryCode": "RO"
       },
       {
-         "name": "S\u0103laj County",
+         "name": "Sălaj County",
          "isoCode": "SJ",
          "countryCode": "RO"
       },
@@ -18820,7 +18820,7 @@
          "countryCode": "RO"
       },
       {
-         "name": "Timi\u0219 County",
+         "name": "Timiș County",
          "isoCode": "TM",
          "countryCode": "RO"
       },
@@ -18830,7 +18830,7 @@
          "countryCode": "RO"
       },
       {
-         "name": "V\u00e2lcea County",
+         "name": "Vâlcea County",
          "isoCode": "VL",
          "countryCode": "RO"
       },
@@ -18852,7 +18852,7 @@
          "countryCode": "RS"
       },
       {
-         "name": "North Ba\u010dka District",
+         "name": "North Bačka District",
          "isoCode": "01",
          "countryCode": "RS"
       },
@@ -18872,12 +18872,12 @@
          "countryCode": "RS"
       },
       {
-         "name": "West Ba\u010dka District",
+         "name": "West Bačka District",
          "isoCode": "05",
          "countryCode": "RS"
       },
       {
-         "name": "South Ba\u010dka District",
+         "name": "South Bačka District",
          "isoCode": "06",
          "countryCode": "RS"
       },
@@ -18887,7 +18887,7 @@
          "countryCode": "RS"
       },
       {
-         "name": "Ma\u010dva District",
+         "name": "Mačva District",
          "isoCode": "08",
          "countryCode": "RS"
       },
@@ -18902,12 +18902,12 @@
          "countryCode": "RS"
       },
       {
-         "name": "Brani\u010devo District",
+         "name": "Braničevo District",
          "isoCode": "11",
          "countryCode": "RS"
       },
       {
-         "name": "\u0160umadija District",
+         "name": "Šumadija District",
          "isoCode": "12",
          "countryCode": "RS"
       },
@@ -18922,7 +18922,7 @@
          "countryCode": "RS"
       },
       {
-         "name": "Zaje\u010dar District",
+         "name": "Zaječar District",
          "isoCode": "15",
          "countryCode": "RS"
       },
@@ -18937,7 +18937,7 @@
          "countryCode": "RS"
       },
       {
-         "name": "Ra\u0161ka District",
+         "name": "Raška District",
          "isoCode": "18",
          "countryCode": "RS"
       },
@@ -18947,7 +18947,7 @@
          "countryCode": "RS"
       },
       {
-         "name": "Ni\u0161ava District",
+         "name": "Nišava District",
          "isoCode": "20",
          "countryCode": "RS"
       },
@@ -18967,7 +18967,7 @@
          "countryCode": "RS"
       },
       {
-         "name": "P\u010dinja District",
+         "name": "Pčinja District",
          "isoCode": "24",
          "countryCode": "RS"
       },
@@ -19602,7 +19602,7 @@
          "countryCode": "SC"
       },
       {
-         "name": "Grand'Anse Mah\u00e9",
+         "name": "Grand'Anse Mahé",
          "isoCode": "13",
          "countryCode": "SC"
       },
@@ -19617,7 +19617,7 @@
          "countryCode": "SC"
       },
       {
-         "name": "La Rivi\u00e8re Anglaise",
+         "name": "La Rivière Anglaise",
          "isoCode": "16",
          "countryCode": "SC"
       },
@@ -19766,7 +19766,7 @@
          "countryCode": "SE"
       },
       {
-         "name": "V\u00e4sterbotten County",
+         "name": "Västerbotten County",
          "isoCode": "AC",
          "countryCode": "SE"
       },
@@ -19781,17 +19781,17 @@
          "countryCode": "SE"
       },
       {
-         "name": "S\u00f6dermanland County",
+         "name": "Södermanland County",
          "isoCode": "D",
          "countryCode": "SE"
       },
       {
-         "name": "\u00d6sterg\u00f6tland County",
+         "name": "Östergötland County",
          "isoCode": "E",
          "countryCode": "SE"
       },
       {
-         "name": "J\u00f6nk\u00f6ping County",
+         "name": "Jönköping County",
          "isoCode": "F",
          "countryCode": "SE"
       },
@@ -19816,7 +19816,7 @@
          "countryCode": "SE"
       },
       {
-         "name": "Sk\u00e5ne County",
+         "name": "Skåne County",
          "isoCode": "M",
          "countryCode": "SE"
       },
@@ -19826,22 +19826,22 @@
          "countryCode": "SE"
       },
       {
-         "name": "V\u00e4stra G\u00f6taland County",
+         "name": "Västra Götaland County",
          "isoCode": "O",
          "countryCode": "SE"
       },
       {
-         "name": "V\u00e4rmland County",
+         "name": "Värmland County",
          "isoCode": "S",
          "countryCode": "SE"
       },
       {
-         "name": "\u00d6rebro County",
+         "name": "Örebro County",
          "isoCode": "T",
          "countryCode": "SE"
       },
       {
-         "name": "V\u00e4stmanland County",
+         "name": "Västmanland County",
          "isoCode": "U",
          "countryCode": "SE"
       },
@@ -19851,12 +19851,12 @@
          "countryCode": "SE"
       },
       {
-         "name": "G\u00e4vleborg County",
+         "name": "Gävleborg County",
          "isoCode": "X",
          "countryCode": "SE"
       },
       {
-         "name": "V\u00e4sternorrland County",
+         "name": "Västernorrland County",
          "isoCode": "Y",
          "countryCode": "SE"
       }
@@ -19890,7 +19890,7 @@
    ],
    "Slovenia-SI": [
       {
-         "name": "Ajdov\u0161\u010dina Municipality",
+         "name": "Ajdovščina Municipality",
          "isoCode": "001",
          "countryCode": "SI"
       },
@@ -19930,12 +19930,12 @@
          "countryCode": "SI"
       },
       {
-         "name": "Bre\u017eice Municipality",
+         "name": "Brežice Municipality",
          "isoCode": "009",
          "countryCode": "SI"
       },
       {
-         "name": "Ti\u0161ina Municipality",
+         "name": "Tišina Municipality",
          "isoCode": "010",
          "countryCode": "SI"
       },
@@ -19960,17 +19960,17 @@
          "countryCode": "SI"
       },
       {
-         "name": "\u010cren\u0161ovci Municipality",
+         "name": "Črenšovci Municipality",
          "isoCode": "015",
          "countryCode": "SI"
       },
       {
-         "name": "\u010crna na Koro\u0161kem Municipality",
+         "name": "Črna na Koroškem Municipality",
          "isoCode": "016",
          "countryCode": "SI"
       },
       {
-         "name": "\u010crnomelj Municipality",
+         "name": "Črnomelj Municipality",
          "isoCode": "017",
          "countryCode": "SI"
       },
@@ -19980,7 +19980,7 @@
          "countryCode": "SI"
       },
       {
-         "name": "Diva\u010da Municipality",
+         "name": "Divača Municipality",
          "isoCode": "019",
          "countryCode": "SI"
       },
@@ -19990,7 +19990,7 @@
          "countryCode": "SI"
       },
       {
-         "name": "Dobrova\u2013Polhov Gradec Municipality",
+         "name": "Dobrova–Polhov Gradec Municipality",
          "isoCode": "021",
          "countryCode": "SI"
       },
@@ -20000,7 +20000,7 @@
          "countryCode": "SI"
       },
       {
-         "name": "Dom\u017eale Municipality",
+         "name": "Domžale Municipality",
          "isoCode": "023",
          "countryCode": "SI"
       },
@@ -20020,12 +20020,12 @@
          "countryCode": "SI"
       },
       {
-         "name": "Gorenja Vas\u2013Poljane Municipality",
+         "name": "Gorenja Vas–Poljane Municipality",
          "isoCode": "027",
          "countryCode": "SI"
       },
       {
-         "name": "Gori\u0161nica Municipality",
+         "name": "Gorišnica Municipality",
          "isoCode": "028",
          "countryCode": "SI"
       },
@@ -20050,7 +20050,7 @@
          "countryCode": "SI"
       },
       {
-         "name": "\u0160alovci Municipality",
+         "name": "Šalovci Municipality",
          "isoCode": "033",
          "countryCode": "SI"
       },
@@ -20060,7 +20060,7 @@
          "countryCode": "SI"
       },
       {
-         "name": "Hrpelje\u2013Kozina Municipality",
+         "name": "Hrpelje–Kozina Municipality",
          "isoCode": "035",
          "countryCode": "SI"
       },
@@ -20080,7 +20080,7 @@
          "countryCode": "SI"
       },
       {
-         "name": "Ivan\u010dna Gorica Municipality",
+         "name": "Ivančna Gorica Municipality",
          "isoCode": "039",
          "countryCode": "SI"
       },
@@ -20095,7 +20095,7 @@
          "countryCode": "SI"
       },
       {
-         "name": "Jur\u0161inci Municipality",
+         "name": "Juršinci Municipality",
          "isoCode": "042",
          "countryCode": "SI"
       },
@@ -20105,12 +20105,12 @@
          "countryCode": "SI"
       },
       {
-         "name": "Kanal ob So\u010di Municipality",
+         "name": "Kanal ob Soči Municipality",
          "isoCode": "044",
          "countryCode": "SI"
       },
       {
-         "name": "Kidri\u010devo Municipality",
+         "name": "Kidričevo Municipality",
          "isoCode": "045",
          "countryCode": "SI"
       },
@@ -20125,7 +20125,7 @@
          "countryCode": "SI"
       },
       {
-         "name": "Ko\u010devje Municipality",
+         "name": "Kočevje Municipality",
          "isoCode": "048",
          "countryCode": "SI"
       },
@@ -20155,7 +20155,7 @@
          "countryCode": "SI"
       },
       {
-         "name": "Municipality of Kr\u0161ko",
+         "name": "Municipality of Krško",
          "isoCode": "054",
          "countryCode": "SI"
       },
@@ -20170,7 +20170,7 @@
          "countryCode": "SI"
       },
       {
-         "name": "La\u0161ko Municipality",
+         "name": "Laško Municipality",
          "isoCode": "057",
          "countryCode": "SI"
       },
@@ -20210,17 +20210,17 @@
          "countryCode": "SI"
       },
       {
-         "name": "Lo\u0161ka Dolina Municipality",
+         "name": "Loška Dolina Municipality",
          "isoCode": "065",
          "countryCode": "SI"
       },
       {
-         "name": "Lo\u0161ki Potok Municipality",
+         "name": "Loški Potok Municipality",
          "isoCode": "066",
          "countryCode": "SI"
       },
       {
-         "name": "Lu\u010de Municipality",
+         "name": "Luče Municipality",
          "isoCode": "067",
          "countryCode": "SI"
       },
@@ -20230,7 +20230,7 @@
          "countryCode": "SI"
       },
       {
-         "name": "Maj\u0161perk Municipality",
+         "name": "Majšperk Municipality",
          "isoCode": "069",
          "countryCode": "SI"
       },
@@ -20245,7 +20245,7 @@
          "countryCode": "SI"
       },
       {
-         "name": "Menge\u0161 Municipality",
+         "name": "Mengeš Municipality",
          "isoCode": "072",
          "countryCode": "SI"
       },
@@ -20255,12 +20255,12 @@
          "countryCode": "SI"
       },
       {
-         "name": "Me\u017eica Municipality",
+         "name": "Mežica Municipality",
          "isoCode": "074",
          "countryCode": "SI"
       },
       {
-         "name": "Miren\u2013Kostanjevica Municipality",
+         "name": "Miren–Kostanjevica Municipality",
          "isoCode": "075",
          "countryCode": "SI"
       },
@@ -20270,7 +20270,7 @@
          "countryCode": "SI"
       },
       {
-         "name": "Morav\u010de Municipality",
+         "name": "Moravče Municipality",
          "isoCode": "077",
          "countryCode": "SI"
       },
@@ -20320,7 +20320,7 @@
          "countryCode": "SI"
       },
       {
-         "name": "Ormo\u017e Municipality",
+         "name": "Ormož Municipality",
          "isoCode": "087",
          "countryCode": "SI"
       },
@@ -20345,7 +20345,7 @@
          "countryCode": "SI"
       },
       {
-         "name": "Pod\u010detrtek Municipality",
+         "name": "Podčetrtek Municipality",
          "isoCode": "092",
          "countryCode": "SI"
       },
@@ -20375,12 +20375,12 @@
          "countryCode": "SI"
       },
       {
-         "name": "Ra\u010de\u2013Fram Municipality",
+         "name": "Rače–Fram Municipality",
          "isoCode": "098",
          "countryCode": "SI"
       },
       {
-         "name": "Rade\u010de Municipality",
+         "name": "Radeče Municipality",
          "isoCode": "099",
          "countryCode": "SI"
       },
@@ -20400,7 +20400,7 @@
          "countryCode": "SI"
       },
       {
-         "name": "Ravne na Koro\u0161kem Municipality",
+         "name": "Ravne na Koroškem Municipality",
          "isoCode": "103",
          "countryCode": "SI"
       },
@@ -20410,12 +20410,12 @@
          "countryCode": "SI"
       },
       {
-         "name": "Roga\u0161ovci Municipality",
+         "name": "Rogašovci Municipality",
          "isoCode": "105",
          "countryCode": "SI"
       },
       {
-         "name": "Roga\u0161ka Slatina Municipality",
+         "name": "Rogaška Slatina Municipality",
          "isoCode": "106",
          "countryCode": "SI"
       },
@@ -20425,12 +20425,12 @@
          "countryCode": "SI"
       },
       {
-         "name": "Ru\u0161e Municipality",
+         "name": "Ruše Municipality",
          "isoCode": "108",
          "countryCode": "SI"
       },
       {
-         "name": "Semi\u010d Municipality",
+         "name": "Semič Municipality",
          "isoCode": "109",
          "countryCode": "SI"
       },
@@ -20440,7 +20440,7 @@
          "countryCode": "SI"
       },
       {
-         "name": "Se\u017eana Municipality",
+         "name": "Sežana Municipality",
          "isoCode": "111",
          "countryCode": "SI"
       },
@@ -20460,67 +20460,67 @@
          "countryCode": "SI"
       },
       {
-         "name": "Star\u0161e Municipality",
+         "name": "Starše Municipality",
          "isoCode": "115",
          "countryCode": "SI"
       },
       {
-         "name": "Sveti Jurij ob \u0160\u010davnici Municipality",
+         "name": "Sveti Jurij ob Ščavnici Municipality",
          "isoCode": "116",
          "countryCode": "SI"
       },
       {
-         "name": "\u0160en\u010dur Municipality",
+         "name": "Šenčur Municipality",
          "isoCode": "117",
          "countryCode": "SI"
       },
       {
-         "name": "\u0160entilj Municipality",
+         "name": "Šentilj Municipality",
          "isoCode": "118",
          "countryCode": "SI"
       },
       {
-         "name": "\u0160entjernej Municipality",
+         "name": "Šentjernej Municipality",
          "isoCode": "119",
          "countryCode": "SI"
       },
       {
-         "name": "\u0160entjur Municipality",
+         "name": "Šentjur Municipality",
          "isoCode": "120",
          "countryCode": "SI"
       },
       {
-         "name": "\u0160kocjan Municipality",
+         "name": "Škocjan Municipality",
          "isoCode": "121",
          "countryCode": "SI"
       },
       {
-         "name": "\u0160kofja Loka Municipality",
+         "name": "Škofja Loka Municipality",
          "isoCode": "122",
          "countryCode": "SI"
       },
       {
-         "name": "Municipality of \u0160kofljica",
+         "name": "Municipality of Škofljica",
          "isoCode": "123",
          "countryCode": "SI"
       },
       {
-         "name": "\u0160marje pri Jel\u0161ah Municipality",
+         "name": "Šmarje pri Jelšah Municipality",
          "isoCode": "124",
          "countryCode": "SI"
       },
       {
-         "name": "\u0160martno ob Paki Municipality",
+         "name": "Šmartno ob Paki Municipality",
          "isoCode": "125",
          "countryCode": "SI"
       },
       {
-         "name": "\u0160o\u0161tanj Municipality",
+         "name": "Šoštanj Municipality",
          "isoCode": "126",
          "countryCode": "SI"
       },
       {
-         "name": "\u0160tore Municipality",
+         "name": "Štore Municipality",
          "isoCode": "127",
          "countryCode": "SI"
       },
@@ -20540,17 +20540,17 @@
          "countryCode": "SI"
       },
       {
-         "name": "Tr\u017ei\u010d Municipality",
+         "name": "Tržič Municipality",
          "isoCode": "131",
          "countryCode": "SI"
       },
       {
-         "name": "Turni\u0161\u010de Municipality",
+         "name": "Turnišče Municipality",
          "isoCode": "132",
          "countryCode": "SI"
       },
       {
-         "name": "Velike La\u0161\u010de Municipality",
+         "name": "Velike Lašče Municipality",
          "isoCode": "134",
          "countryCode": "SI"
       },
@@ -20595,22 +20595,22 @@
          "countryCode": "SI"
       },
       {
-         "name": "Zavr\u010d Municipality",
+         "name": "Zavrč Municipality",
          "isoCode": "143",
          "countryCode": "SI"
       },
       {
-         "name": "Zre\u010de Municipality",
+         "name": "Zreče Municipality",
          "isoCode": "144",
          "countryCode": "SI"
       },
       {
-         "name": "\u017delezniki Municipality",
+         "name": "Železniki Municipality",
          "isoCode": "146",
          "countryCode": "SI"
       },
       {
-         "name": "\u017diri Municipality",
+         "name": "Žiri Municipality",
          "isoCode": "147",
          "countryCode": "SI"
       },
@@ -20630,7 +20630,7 @@
          "countryCode": "SI"
       },
       {
-         "name": "Braslov\u010de Municipality",
+         "name": "Braslovče Municipality",
          "isoCode": "151",
          "countryCode": "SI"
       },
@@ -20675,12 +20675,12 @@
          "countryCode": "SI"
       },
       {
-         "name": "Ho\u010de\u2013Slivnica Municipality",
+         "name": "Hoče–Slivnica Municipality",
          "isoCode": "160",
          "countryCode": "SI"
       },
       {
-         "name": "Hodo\u0161 Municipality",
+         "name": "Hodoš Municipality",
          "isoCode": "161",
          "countryCode": "SI"
       },
@@ -20705,7 +20705,7 @@
          "countryCode": "SI"
       },
       {
-         "name": "Kri\u017eevci Municipality",
+         "name": "Križevci Municipality",
          "isoCode": "166",
          "countryCode": "SI"
       },
@@ -20720,12 +20720,12 @@
          "countryCode": "SI"
       },
       {
-         "name": "Miklav\u017e na Dravskem Polju Municipality",
+         "name": "Miklavž na Dravskem Polju Municipality",
          "isoCode": "169",
          "countryCode": "SI"
       },
       {
-         "name": "Mirna Pe\u010d Municipality",
+         "name": "Mirna Peč Municipality",
          "isoCode": "170",
          "countryCode": "SI"
       },
@@ -20755,7 +20755,7 @@
          "countryCode": "SI"
       },
       {
-         "name": "Razkri\u017eje Municipality",
+         "name": "Razkrižje Municipality",
          "isoCode": "176",
          "countryCode": "SI"
       },
@@ -20770,12 +20770,12 @@
          "countryCode": "SI"
       },
       {
-         "name": "Sodra\u017eica Municipality",
+         "name": "Sodražica Municipality",
          "isoCode": "179",
          "countryCode": "SI"
       },
       {
-         "name": "Sol\u010dava Municipality",
+         "name": "Solčava Municipality",
          "isoCode": "180",
          "countryCode": "SI"
       },
@@ -20785,12 +20785,12 @@
          "countryCode": "SI"
       },
       {
-         "name": "Sveti Andra\u017e v Slovenskih Goricah Municipality",
+         "name": "Sveti Andraž v Slovenskih Goricah Municipality",
          "isoCode": "182",
          "countryCode": "SI"
       },
       {
-         "name": "\u0160empeter\u2013Vrtojba Municipality",
+         "name": "Šempeter–Vrtojba Municipality",
          "isoCode": "183",
          "countryCode": "SI"
       },
@@ -20815,7 +20815,7 @@
          "countryCode": "SI"
       },
       {
-         "name": "Ver\u017eej Municipality",
+         "name": "Veržej Municipality",
          "isoCode": "188",
          "countryCode": "SI"
       },
@@ -20825,32 +20825,32 @@
          "countryCode": "SI"
       },
       {
-         "name": "\u017dalec Municipality",
+         "name": "Žalec Municipality",
          "isoCode": "190",
          "countryCode": "SI"
       },
       {
-         "name": "\u017detale Municipality",
+         "name": "Žetale Municipality",
          "isoCode": "191",
          "countryCode": "SI"
       },
       {
-         "name": "\u017dirovnica Municipality",
+         "name": "Žirovnica Municipality",
          "isoCode": "192",
          "countryCode": "SI"
       },
       {
-         "name": "\u017du\u017eemberk Municipality",
+         "name": "Žužemberk Municipality",
          "isoCode": "193",
          "countryCode": "SI"
       },
       {
-         "name": "\u0160martno pri Litiji Municipality",
+         "name": "Šmartno pri Litiji Municipality",
          "isoCode": "194",
          "countryCode": "SI"
       },
       {
-         "name": "Municipality of Apa\u010de",
+         "name": "Municipality of Apače",
          "isoCode": "195",
          "countryCode": "SI"
       },
@@ -20870,27 +20870,27 @@
          "countryCode": "SI"
       },
       {
-         "name": "Mokronog\u2013Trebelno Municipality",
+         "name": "Mokronog–Trebelno Municipality",
          "isoCode": "199",
          "countryCode": "SI"
       },
       {
-         "name": "Polj\u010dane Municipality",
+         "name": "Poljčane Municipality",
          "isoCode": "200",
          "countryCode": "SI"
       },
       {
-         "name": "Ren\u010de\u2013Vogrsko Municipality",
+         "name": "Renče–Vogrsko Municipality",
          "isoCode": "201",
          "countryCode": "SI"
       },
       {
-         "name": "Sredi\u0161\u010de ob Dravi",
+         "name": "Središče ob Dravi",
          "isoCode": "202",
          "countryCode": "SI"
       },
       {
-         "name": "Stra\u017ea Municipality",
+         "name": "Straža Municipality",
          "isoCode": "203",
          "countryCode": "SI"
       },
@@ -20900,12 +20900,12 @@
          "countryCode": "SI"
       },
       {
-         "name": "Sveti Toma\u017e Municipality",
+         "name": "Sveti Tomaž Municipality",
          "isoCode": "205",
          "countryCode": "SI"
       },
       {
-         "name": "\u0160marje\u0161ke Toplice Municipality",
+         "name": "Šmarješke Toplice Municipality",
          "isoCode": "206",
          "countryCode": "SI"
       },
@@ -20915,12 +20915,12 @@
          "countryCode": "SI"
       },
       {
-         "name": "Log\u2013Dragomer Municipality",
+         "name": "Log–Dragomer Municipality",
          "isoCode": "208",
          "countryCode": "SI"
       },
       {
-         "name": "Re\u010dica ob Savinji Municipality",
+         "name": "Rečica ob Savinji Municipality",
          "isoCode": "209",
          "countryCode": "SI"
       },
@@ -20930,7 +20930,7 @@
          "countryCode": "SI"
       },
       {
-         "name": "\u0160entrupert Municipality",
+         "name": "Šentrupert Municipality",
          "isoCode": "211",
          "countryCode": "SI"
       },
@@ -20947,7 +20947,7 @@
    ],
    "Slovakia-SK": [
       {
-         "name": "Bansk\u00e1 Bystrica Region",
+         "name": "Banská Bystrica Region",
          "isoCode": "BC",
          "countryCode": "SK"
       },
@@ -20957,7 +20957,7 @@
          "countryCode": "SK"
       },
       {
-         "name": "Ko\u0161ice Region",
+         "name": "Košice Region",
          "isoCode": "KI",
          "countryCode": "SK"
       },
@@ -20967,7 +20967,7 @@
          "countryCode": "SK"
       },
       {
-         "name": "Pre\u0161ov Region",
+         "name": "Prešov Region",
          "isoCode": "PV",
          "countryCode": "SK"
       },
@@ -20977,12 +20977,12 @@
          "countryCode": "SK"
       },
       {
-         "name": "Tren\u010d\u00edn Region",
+         "name": "Trenčín Region",
          "isoCode": "TC",
          "countryCode": "SK"
       },
       {
-         "name": "\u017dilina Region",
+         "name": "Žilina Region",
          "isoCode": "ZI",
          "countryCode": "SK"
       }
@@ -21006,21 +21006,6 @@
       {
          "name": "Western Area",
          "isoCode": "W",
-         "countryCode": "SL"
-      },
-      {
-         "name": "Kono District",
-         "isoCode": "KO",
-         "countryCode": "SL"
-      },
-      {
-         "name": "Tonkolili District",
-         "isoCode": "TO",
-         "countryCode": "SL"
-      },
-      {
-         "name": "Western Rural Area District",
-         "isoCode": "WR",
          "countryCode": "SL"
       }
    ],
@@ -21098,7 +21083,7 @@
          "countryCode": "SN"
       },
       {
-         "name": "K\u00e9dougou",
+         "name": "Kédougou",
          "isoCode": "KE",
          "countryCode": "SN"
       },
@@ -21118,7 +21103,7 @@
          "countryCode": "SN"
       },
       {
-         "name": "S\u00e9dhiou",
+         "name": "Sédhiou",
          "isoCode": "SE",
          "countryCode": "SN"
       },
@@ -21133,7 +21118,7 @@
          "countryCode": "SN"
       },
       {
-         "name": "Thi\u00e8s Region",
+         "name": "Thiès Region",
          "isoCode": "TH",
          "countryCode": "SN"
       },
@@ -21331,24 +21316,24 @@
    ],
    "Sao_Tome_and_Principe-ST": [
       {
-         "name": "Pr\u00edncipe Province",
+         "name": "Príncipe Province",
          "isoCode": "P",
          "countryCode": "ST"
       },
       {
-         "name": "S\u00e3o Tom\u00e9 Province",
+         "name": "São Tomé Province",
          "isoCode": "S",
          "countryCode": "ST"
       }
    ],
    "El_Salvador-SV": [
       {
-         "name": "Ahuachap\u00e1n Department",
+         "name": "Ahuachapán Department",
          "isoCode": "AH",
          "countryCode": "SV"
       },
       {
-         "name": "Caba\u00f1as Department",
+         "name": "Cabañas Department",
          "isoCode": "CA",
          "countryCode": "SV"
       },
@@ -21358,7 +21343,7 @@
          "countryCode": "SV"
       },
       {
-         "name": "Cuscatl\u00e1n Department",
+         "name": "Cuscatlán Department",
          "isoCode": "CU",
          "countryCode": "SV"
       },
@@ -21368,7 +21353,7 @@
          "countryCode": "SV"
       },
       {
-         "name": "Moraz\u00e1n Department",
+         "name": "Morazán Department",
          "isoCode": "MO",
          "countryCode": "SV"
       },
@@ -21403,12 +21388,12 @@
          "countryCode": "SV"
       },
       {
-         "name": "La Uni\u00f3n Department",
+         "name": "La Unión Department",
          "isoCode": "UN",
          "countryCode": "SV"
       },
       {
-         "name": "Usulut\u00e1n Department",
+         "name": "Usulután Department",
          "isoCode": "US",
          "countryCode": "SV"
       }
@@ -21539,7 +21524,7 @@
          "countryCode": "TD"
       },
       {
-         "name": "Gu\u00e9ra Region",
+         "name": "Guéra Region",
          "isoCode": "GR",
          "countryCode": "TD"
       },
@@ -21594,7 +21579,7 @@
          "countryCode": "TD"
       },
       {
-         "name": "Ouadda\u00ef Region",
+         "name": "Ouaddaï Region",
          "isoCode": "OD",
          "countryCode": "TD"
       },
@@ -21609,7 +21594,7 @@
          "countryCode": "TD"
       },
       {
-         "name": "Tandjil\u00e9 Region",
+         "name": "Tandjilé Region",
          "isoCode": "TA",
          "countryCode": "TD"
       },
@@ -22102,12 +22087,12 @@
          "countryCode": "TL"
       },
       {
-         "name": "Laut\u00e9m Municipality",
+         "name": "Lautém Municipality",
          "isoCode": "LA",
          "countryCode": "TL"
       },
       {
-         "name": "Liqui\u00e7\u00e1 Municipality",
+         "name": "Liquiçá Municipality",
          "isoCode": "LI",
          "countryCode": "TL"
       },
@@ -22139,7 +22124,7 @@
          "countryCode": "TM"
       },
       {
-         "name": "Da\u015foguz Region",
+         "name": "Daşoguz Region",
          "isoCode": "D",
          "countryCode": "TM"
       },
@@ -22261,7 +22246,7 @@
          "countryCode": "TN"
       },
       {
-         "name": "Gab\u00e8s Governorate",
+         "name": "Gabès Governorate",
          "isoCode": "81",
          "countryCode": "TN"
       },
@@ -22278,12 +22263,12 @@
    ],
    "Tonga-TO": [
       {
-         "name": "\u02bbEua",
+         "name": "ʻEua",
          "isoCode": "01",
          "countryCode": "TO"
       },
       {
-         "name": "Ha\u02bbapai",
+         "name": "Haʻapai",
          "isoCode": "02",
          "countryCode": "TO"
       },
@@ -22298,7 +22283,7 @@
          "countryCode": "TO"
       },
       {
-         "name": "Vava\u02bbu",
+         "name": "Vavaʻu",
          "isoCode": "05",
          "countryCode": "TO"
       }
@@ -22310,7 +22295,7 @@
          "countryCode": "TR"
       },
       {
-         "name": "Ad\u0131yaman",
+         "name": "Adıyaman",
          "isoCode": "02",
          "countryCode": "TR"
       },
@@ -22320,7 +22305,7 @@
          "countryCode": "TR"
       },
       {
-         "name": "A\u011fr\u0131",
+         "name": "Ağrı",
          "isoCode": "04",
          "countryCode": "TR"
       },
@@ -22345,12 +22330,12 @@
          "countryCode": "TR"
       },
       {
-         "name": "Ayd\u0131n",
+         "name": "Aydın",
          "isoCode": "09",
          "countryCode": "TR"
       },
       {
-         "name": "Bal\u0131kesir",
+         "name": "Balıkesir",
          "isoCode": "10",
          "countryCode": "TR"
       },
@@ -22360,7 +22345,7 @@
          "countryCode": "TR"
       },
       {
-         "name": "Bing\u00f6l",
+         "name": "Bingöl",
          "isoCode": "12",
          "countryCode": "TR"
       },
@@ -22385,17 +22370,17 @@
          "countryCode": "TR"
       },
       {
-         "name": "\u00c7anakkale",
+         "name": "Çanakkale",
          "isoCode": "17",
          "countryCode": "TR"
       },
       {
-         "name": "\u00c7ank\u0131r\u0131",
+         "name": "Çankırı",
          "isoCode": "18",
          "countryCode": "TR"
       },
       {
-         "name": "\u00c7orum",
+         "name": "Çorum",
          "isoCode": "19",
          "countryCode": "TR"
       },
@@ -22405,7 +22390,7 @@
          "countryCode": "TR"
       },
       {
-         "name": "Diyarbak\u0131r",
+         "name": "Diyarbakır",
          "isoCode": "21",
          "countryCode": "TR"
       },
@@ -22415,7 +22400,7 @@
          "countryCode": "TR"
       },
       {
-         "name": "Elaz\u0131\u011f",
+         "name": "Elazığ",
          "isoCode": "23",
          "countryCode": "TR"
       },
@@ -22430,7 +22415,7 @@
          "countryCode": "TR"
       },
       {
-         "name": "Eski\u015fehir",
+         "name": "Eskişehir",
          "isoCode": "26",
          "countryCode": "TR"
       },
@@ -22445,12 +22430,12 @@
          "countryCode": "TR"
       },
       {
-         "name": "G\u00fcm\u00fc\u015fhane",
+         "name": "Gümüşhane",
          "isoCode": "29",
          "countryCode": "TR"
       },
       {
-         "name": "Hakk\u00e2ri",
+         "name": "Hakkâri",
          "isoCode": "30",
          "countryCode": "TR"
       },
@@ -22475,7 +22460,7 @@
          "countryCode": "TR"
       },
       {
-         "name": "\u0130zmir",
+         "name": "İzmir",
          "isoCode": "35",
          "countryCode": "TR"
       },
@@ -22495,12 +22480,12 @@
          "countryCode": "TR"
       },
       {
-         "name": "K\u0131rklareli",
+         "name": "Kırklareli",
          "isoCode": "39",
          "countryCode": "TR"
       },
       {
-         "name": "K\u0131r\u015fehir",
+         "name": "Kırşehir",
          "isoCode": "40",
          "countryCode": "TR"
       },
@@ -22515,7 +22500,7 @@
          "countryCode": "TR"
       },
       {
-         "name": "K\u00fctahya",
+         "name": "Kütahya",
          "isoCode": "43",
          "countryCode": "TR"
       },
@@ -22530,7 +22515,7 @@
          "countryCode": "TR"
       },
       {
-         "name": "Kahramanmara\u015f",
+         "name": "Kahramanmaraş",
          "isoCode": "46",
          "countryCode": "TR"
       },
@@ -22540,22 +22525,22 @@
          "countryCode": "TR"
       },
       {
-         "name": "Mu\u011fla",
+         "name": "Muğla",
          "isoCode": "48",
          "countryCode": "TR"
       },
       {
-         "name": "Mu\u015f",
+         "name": "Muş",
          "isoCode": "49",
          "countryCode": "TR"
       },
       {
-         "name": "Nev\u015fehir",
+         "name": "Nevşehir",
          "isoCode": "50",
          "countryCode": "TR"
       },
       {
-         "name": "Ni\u011fde",
+         "name": "Niğde",
          "isoCode": "51",
          "countryCode": "TR"
       },
@@ -22595,7 +22580,7 @@
          "countryCode": "TR"
       },
       {
-         "name": "Tekirda\u011f",
+         "name": "Tekirdağ",
          "isoCode": "59",
          "countryCode": "TR"
       },
@@ -22615,12 +22600,12 @@
          "countryCode": "TR"
       },
       {
-         "name": "\u015eanl\u0131urfa",
+         "name": "Şanlıurfa",
          "isoCode": "63",
          "countryCode": "TR"
       },
       {
-         "name": "U\u015fak",
+         "name": "Uşak",
          "isoCode": "64",
          "countryCode": "TR"
       },
@@ -22655,7 +22640,7 @@
          "countryCode": "TR"
       },
       {
-         "name": "K\u0131r\u0131kkale",
+         "name": "Kırıkkale",
          "isoCode": "71",
          "countryCode": "TR"
       },
@@ -22665,12 +22650,12 @@
          "countryCode": "TR"
       },
       {
-         "name": "\u015e\u0131rnak",
+         "name": "Şırnak",
          "isoCode": "73",
          "countryCode": "TR"
       },
       {
-         "name": "Bart\u0131n",
+         "name": "Bartın",
          "isoCode": "74",
          "countryCode": "TR"
       },
@@ -22680,7 +22665,7 @@
          "countryCode": "TR"
       },
       {
-         "name": "I\u011fd\u0131r",
+         "name": "Iğdır",
          "isoCode": "76",
          "countryCode": "TR"
       },
@@ -22690,7 +22675,7 @@
          "countryCode": "TR"
       },
       {
-         "name": "Karab\u00fck",
+         "name": "Karabük",
          "isoCode": "78",
          "countryCode": "TR"
       },
@@ -22705,7 +22690,7 @@
          "countryCode": "TR"
       },
       {
-         "name": "D\u00fczce",
+         "name": "Düzce",
          "isoCode": "81",
          "countryCode": "TR"
       }
@@ -24246,12 +24231,12 @@
          "countryCode": "UY"
       },
       {
-         "name": "Paysand\u00fa Department",
+         "name": "Paysandú Department",
          "isoCode": "PA",
          "countryCode": "UY"
       },
       {
-         "name": "R\u00edo Negro Department",
+         "name": "Río Negro Department",
          "isoCode": "RN",
          "countryCode": "UY"
       },
@@ -24271,7 +24256,7 @@
          "countryCode": "UY"
       },
       {
-         "name": "San Jos\u00e9 Department",
+         "name": "San José Department",
          "isoCode": "SJ",
          "countryCode": "UY"
       },
@@ -24281,7 +24266,7 @@
          "countryCode": "UY"
       },
       {
-         "name": "Tacuaremb\u00f3 Department",
+         "name": "Tacuarembó Department",
          "isoCode": "TA",
          "countryCode": "UY"
       },
@@ -24402,7 +24387,7 @@
          "countryCode": "VE"
       },
       {
-         "name": "Anzo\u00e1tegui",
+         "name": "Anzoátegui",
          "isoCode": "B",
          "countryCode": "VE"
       },
@@ -24422,7 +24407,7 @@
          "countryCode": "VE"
       },
       {
-         "name": "Bol\u00edvar",
+         "name": "Bolívar",
          "isoCode": "F",
          "countryCode": "VE"
       },
@@ -24437,12 +24422,12 @@
          "countryCode": "VE"
       },
       {
-         "name": "Falc\u00f3n",
+         "name": "Falcón",
          "isoCode": "I",
          "countryCode": "VE"
       },
       {
-         "name": "Gu\u00e1rico",
+         "name": "Guárico",
          "isoCode": "J",
          "countryCode": "VE"
       },
@@ -24452,7 +24437,7 @@
          "countryCode": "VE"
       },
       {
-         "name": "M\u00e9rida",
+         "name": "Mérida",
          "isoCode": "L",
          "countryCode": "VE"
       },
@@ -24482,7 +24467,7 @@
          "countryCode": "VE"
       },
       {
-         "name": "T\u00e1chira",
+         "name": "Táchira",
          "isoCode": "S",
          "countryCode": "VE"
       },
@@ -24524,97 +24509,97 @@
    ],
    "Vietnam-VN": [
       {
-         "name": "Lai Ch\u00e2u",
+         "name": "Lai Châu",
          "isoCode": "01",
          "countryCode": "VN"
       },
       {
-         "name": "L\u00e0o Cai",
+         "name": "Lào Cai",
          "isoCode": "02",
          "countryCode": "VN"
       },
       {
-         "name": "H\u00e0 Giang",
+         "name": "Hà Giang",
          "isoCode": "03",
          "countryCode": "VN"
       },
       {
-         "name": "Cao B\u1eb1ng",
+         "name": "Cao Bằng",
          "isoCode": "04",
          "countryCode": "VN"
       },
       {
-         "name": "S\u01a1n La",
+         "name": "Sơn La",
          "isoCode": "05",
          "countryCode": "VN"
       },
       {
-         "name": "Y\u00ean B\u00e1i",
+         "name": "Yên Bái",
          "isoCode": "06",
          "countryCode": "VN"
       },
       {
-         "name": "Tuy\u00ean Quang",
+         "name": "Tuyên Quang",
          "isoCode": "07",
          "countryCode": "VN"
       },
       {
-         "name": "L\u1ea1ng S\u01a1n",
+         "name": "Lạng Sơn",
          "isoCode": "09",
          "countryCode": "VN"
       },
       {
-         "name": "Qu\u1ea3ng Ninh",
+         "name": "Quảng Ninh",
          "isoCode": "13",
          "countryCode": "VN"
       },
       {
-         "name": "H\u00f2a B\u00ecnh",
+         "name": "Hòa Bình",
          "isoCode": "14",
          "countryCode": "VN"
       },
       {
-         "name": "Ninh B\u00ecnh",
+         "name": "Ninh Bình",
          "isoCode": "18",
          "countryCode": "VN"
       },
       {
-         "name": "Th\u00e1i B\u00ecnh",
+         "name": "Thái Bình",
          "isoCode": "20",
          "countryCode": "VN"
       },
       {
-         "name": "Thanh H\u00f3a",
+         "name": "Thanh Hóa",
          "isoCode": "21",
          "countryCode": "VN"
       },
       {
-         "name": "Ngh\u1ec7 An",
+         "name": "Nghệ An",
          "isoCode": "22",
          "countryCode": "VN"
       },
       {
-         "name": "H\u00e0 T\u0129nh",
+         "name": "Hà Tĩnh",
          "isoCode": "23",
          "countryCode": "VN"
       },
       {
-         "name": "Qu\u1ea3ng B\u00ecnh",
+         "name": "Quảng Bình",
          "isoCode": "24",
          "countryCode": "VN"
       },
       {
-         "name": "Qu\u1ea3ng Tr\u1ecb",
+         "name": "Quảng Trị",
          "isoCode": "25",
          "countryCode": "VN"
       },
       {
-         "name": "Th\u1eeba Thi\u00ean-Hu\u1ebf",
+         "name": "Thừa Thiên-Huế",
          "isoCode": "26",
          "countryCode": "VN"
       },
       {
-         "name": "Qu\u1ea3ng Nam",
+         "name": "Quảng Nam",
          "isoCode": "27",
          "countryCode": "VN"
       },
@@ -24624,7 +24609,7 @@
          "countryCode": "VN"
       },
       {
-         "name": "Qu\u1ea3ng Ng\u00e3i",
+         "name": "Quảng Ngãi",
          "isoCode": "29",
          "countryCode": "VN"
       },
@@ -24634,47 +24619,47 @@
          "countryCode": "VN"
       },
       {
-         "name": "B\u00ecnh \u0110\u1ecbnh",
+         "name": "Bình Định",
          "isoCode": "31",
          "countryCode": "VN"
       },
       {
-         "name": "Ph\u00fa Y\u00ean",
+         "name": "Phú Yên",
          "isoCode": "32",
          "countryCode": "VN"
       },
       {
-         "name": "\u0110\u1eafk L\u1eafk",
+         "name": "Đắk Lắk",
          "isoCode": "33",
          "countryCode": "VN"
       },
       {
-         "name": "Kh\u00e1nh H\u00f2a",
+         "name": "Khánh Hòa",
          "isoCode": "34",
          "countryCode": "VN"
       },
       {
-         "name": "L\u00e2m \u0110\u1ed3ng",
+         "name": "Lâm Đồng",
          "isoCode": "35",
          "countryCode": "VN"
       },
       {
-         "name": "Ninh Thu\u1eadn",
+         "name": "Ninh Thuận",
          "isoCode": "36",
          "countryCode": "VN"
       },
       {
-         "name": "T\u00e2y Ninh",
+         "name": "Tây Ninh",
          "isoCode": "37",
          "countryCode": "VN"
       },
       {
-         "name": "\u0110\u1ed3ng Nai",
+         "name": "Đồng Nai",
          "isoCode": "39",
          "countryCode": "VN"
       },
       {
-         "name": "B\u00ecnh Thu\u1eadn",
+         "name": "Bình Thuận",
          "isoCode": "40",
          "countryCode": "VN"
       },
@@ -24684,7 +24669,7 @@
          "countryCode": "VN"
       },
       {
-         "name": "B\u00e0 R\u1ecba-V\u0169ng T\u00e0u",
+         "name": "Bà Rịa-Vũng Tàu",
          "isoCode": "43",
          "countryCode": "VN"
       },
@@ -24694,147 +24679,147 @@
          "countryCode": "VN"
       },
       {
-         "name": "\u0110\u1ed3ng Th\u00e1p",
+         "name": "Đồng Tháp",
          "isoCode": "45",
          "countryCode": "VN"
       },
       {
-         "name": "Ti\u1ec1n Giang",
+         "name": "Tiền Giang",
          "isoCode": "46",
          "countryCode": "VN"
       },
       {
-         "name": "Ki\u00ean Giang",
+         "name": "Kiên Giang",
          "isoCode": "47",
          "countryCode": "VN"
       },
       {
-         "name": "V\u0129nh Long",
+         "name": "Vĩnh Long",
          "isoCode": "49",
          "countryCode": "VN"
       },
       {
-         "name": "B\u1ebfn Tre",
+         "name": "Bến Tre",
          "isoCode": "50",
          "countryCode": "VN"
       },
       {
-         "name": "Tr\u00e0 Vinh",
+         "name": "Trà Vinh",
          "isoCode": "51",
          "countryCode": "VN"
       },
       {
-         "name": "S\u00f3c Tr\u0103ng",
+         "name": "Sóc Trăng",
          "isoCode": "52",
          "countryCode": "VN"
       },
       {
-         "name": "B\u1eafc K\u1ea1n",
+         "name": "Bắc Kạn",
          "isoCode": "53",
          "countryCode": "VN"
       },
       {
-         "name": "B\u1eafc Giang",
+         "name": "Bắc Giang",
          "isoCode": "54",
          "countryCode": "VN"
       },
       {
-         "name": "B\u1ea1c Li\u00eau",
+         "name": "Bạc Liêu",
          "isoCode": "55",
          "countryCode": "VN"
       },
       {
-         "name": "B\u1eafc Ninh",
+         "name": "Bắc Ninh",
          "isoCode": "56",
          "countryCode": "VN"
       },
       {
-         "name": "B\u00ecnh D\u01b0\u01a1ng",
+         "name": "Bình Dương",
          "isoCode": "57",
          "countryCode": "VN"
       },
       {
-         "name": "B\u00ecnh Ph\u01b0\u1edbc",
+         "name": "Bình Phước",
          "isoCode": "58",
          "countryCode": "VN"
       },
       {
-         "name": "C\u00e0 Mau",
+         "name": "Cà Mau",
          "isoCode": "59",
          "countryCode": "VN"
       },
       {
-         "name": "H\u1ea3i D\u01b0\u01a1ng",
+         "name": "Hải Dương",
          "isoCode": "61",
          "countryCode": "VN"
       },
       {
-         "name": "H\u00e0 Nam",
+         "name": "Hà Nam",
          "isoCode": "63",
          "countryCode": "VN"
       },
       {
-         "name": "H\u01b0ng Y\u00ean",
+         "name": "Hưng Yên",
          "isoCode": "66",
          "countryCode": "VN"
       },
       {
-         "name": "Nam \u0110\u1ecbnh",
+         "name": "Nam Định",
          "isoCode": "67",
          "countryCode": "VN"
       },
       {
-         "name": "Ph\u00fa Th\u1ecd",
+         "name": "Phú Thọ",
          "isoCode": "68",
          "countryCode": "VN"
       },
       {
-         "name": "Th\u00e1i Nguy\u00ean",
+         "name": "Thái Nguyên",
          "isoCode": "69",
          "countryCode": "VN"
       },
       {
-         "name": "V\u0129nh Ph\u00fac",
+         "name": "Vĩnh Phúc",
          "isoCode": "70",
          "countryCode": "VN"
       },
       {
-         "name": "\u0110i\u1ec7n Bi\u00ean",
+         "name": "Điện Biên",
          "isoCode": "71",
          "countryCode": "VN"
       },
       {
-         "name": "\u0110\u1eafk N\u00f4ng",
+         "name": "Đắk Nông",
          "isoCode": "72",
          "countryCode": "VN"
       },
       {
-         "name": "H\u1eadu Giang",
+         "name": "Hậu Giang",
          "isoCode": "73",
          "countryCode": "VN"
       },
       {
-         "name": "C\u1ea7n Th\u01a1",
+         "name": "Cần Thơ",
          "isoCode": "CT",
          "countryCode": "VN"
       },
       {
-         "name": "\u0110\u00e0 N\u1eb5ng",
+         "name": "Đà Nẵng",
          "isoCode": "DN",
          "countryCode": "VN"
       },
       {
-         "name": "H\u00e0 N\u1ed9i",
+         "name": "Hà Nội",
          "isoCode": "HN",
          "countryCode": "VN"
       },
       {
-         "name": "H\u1ea3i Ph\u00f2ng",
+         "name": "Hải Phòng",
          "isoCode": "HP",
          "countryCode": "VN"
       },
       {
-         "name": "H\u1ed3 Ch\u00ed Minh",
+         "name": "Hồ Chí Minh",
          "isoCode": "SG",
          "countryCode": "VN"
       }
@@ -24930,7 +24915,7 @@
    ],
    "Kosovo-XK": [
       {
-         "name": "\u0110akovica District (Gjakove)",
+         "name": "Đakovica District (Gjakove)",
          "isoCode": "XDG",
          "countryCode": "XK"
       },
@@ -24945,12 +24930,12 @@
          "countryCode": "XK"
       },
       {
-         "name": "Pe\u0107 District",
+         "name": "Peć District",
          "isoCode": "XPE",
          "countryCode": "XK"
       },
       {
-         "name": "Pristina (Pri\u015ftine)",
+         "name": "Pristina (Priştine)",
          "isoCode": "XPI",
          "countryCode": "XK"
       },
@@ -24960,7 +24945,7 @@
          "countryCode": "XK"
       },
       {
-         "name": "Uro\u0161evac District (Ferizaj)",
+         "name": "Uroševac District (Ferizaj)",
          "isoCode": "XUF",
          "countryCode": "XK"
       }
