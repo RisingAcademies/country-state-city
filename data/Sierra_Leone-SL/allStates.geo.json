@@ -26,5 +26,26 @@
       "countryCode": "SL",
       "latitude": "40.25459690",
       "longitude": "-80.24554440"
+   },
+   {
+      "name": "Kono District",
+      "isoCode": "KO",
+      "countryCode": "SL",
+      "latitude": "8.70687000",
+      "longitude": "-10.93368000"
+   },
+   {
+      "name": "Tonkolili District",
+      "isoCode": "TO",
+      "countryCode": "SL",
+      "latitude": "8.61885000",
+      "longitude": "-11.84173000"
+   },
+   {
+      "name": "Western Rural Area District",
+      "isoCode": "WR",
+      "countryCode": "SL",
+      "latitude": "8.39500000",
+      "longitude": "-13.21500000"
    }
 ]
